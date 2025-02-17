@@ -1,0 +1,820 @@
+name,address,city,postalCode,country,icon,userComment,tag1,tag2,tag3,tag4,tag5,tag6,tag7,coordinates,longitude,latitude
+French Cantine,65 Avenue Gambetta,Bagnolet,93170, France,restaurant,Meilleur sandwich que j’ai mangé. Les plats de pâtes ont l’air délicieux. Que dire de plus.,💸,Grec 🥙,Halal,Pâtes 🍝,Validé ✅,,,"[2.416906, 48.870541]",2.416906,48.870541
+La Maison Du Tacos,23 Rue Saint-Spire,Corbeil-Essonnes,91100, France,restaurant,Meilleur endroit pour prendre un tacos FR . 🖕🏾 O'tacos,💸,Halal,Tacos 🇫🇷,Validé ✅,,,,"[2.483511, 48.612176]",2.483511,48.612176
+Mamagaya,24 Avenue Henri Barbusse 93700 Drancy France,Drancy,93700,France,restaurant,,💸,Grec 🥙,Pâtes 🍝,À faire,,,,"[2.4435894, 48.9159382]",2.4435894,48.9159382
+Broadway Coffee,4 Boulevard Carnot,Villemomble,93250, France,fastfood,,💸,Burger 🍔🍟,À faire,,,,,"[2.5116299, 48.88896039999999]",2.5116299,48.88896039999999
+O'Cheese Naans,20 Rue Pablo Neruda,Torcy,77200, France,restaurant,,Burger 🍔🍟,Grec 🥙,💸,À faire,,,,"[2.645185499999999, 48.8437061]",2.645185499999999,48.8437061
+le 129,129 Bis Rue Gabriel Péri,Saint-Denis,93200, France,restaurant,,💸,Grec 🥙,Halal,Validé ✅,,,,"[2.3563828, 48.9404105]",2.3563828,48.9404105
+Snack Mac Kenzi,36 Avenue Victor Hugo 94600 Choisy-le-Roi France,Choisy-le-Roi,94600,France,supermarket,,💸,Halal,Grec 🥙,Validé ✅,,,,"[2.4185563, 48.76788140000001]",2.4185563,48.76788140000001
+The Coffee Time,32 Allée Parmentier,Créteil,94000, France,restaurant,,Grec 🥙,Burger 🍔🍟,Halal,💸,À faire,,,"[2.4450602, 48.7866069]",2.4450602,48.7866069
+Restaurant Sultan,1 Avenue Paul Doumer 93460 Gournay-sur-Marne France,Gournay-sur-Marne,93460,France,fastfood,,💸,Grec 🥙,À faire,,,,,"[2.5763385, 48.86338839999999]",2.5763385,48.86338839999999
+Monday's,2 Rue de Mantes,Colombes,92700, France,restaurant,Je ne sais plus j’avais pris exactement mais c’était bon. J’ai pas eu l’occasion de tester leur desserts mais ils ont l’air 👌,Burger 🍔🍟,Validé ✅,Pâtes 🍝,💸,,,,"[2.233353, 48.90989339999999]",2.233353,48.90989339999999
+5th avenue house of hot dog,11 Rue Jacques Cœur,Paris,75004, France,restaurant,,💸,Hot-Dog 🌭,À faire,,,,,"[2.3673387, 48.85304569999999]",2.3673387,48.85304569999999
+Steak 'n Shake,25 Boulevard de Sébastopol,Paris,75001, France,fastfood,,Burger 🍔🍟,Validé ✅,💸,RIP (Fermé definitivement),,,,"[2.348844499999999, 48.8602411]",2.348844499999999,48.8602411
+Mama Jackson Soul Food ,12 Rue Claude Tillier 75012 Paris France,Paris,75012,France,restaurant,Le Waffle Burger est vraiment bon et rassasiant. Qualité prix au top ! ,💸💸,Halal,Soul Food,Poulet 🐔,Validé ✅,,,"[2.3879223, 48.8480057]",2.3879223,48.8480057
+BAO BURGER,277 Boulevard Voltaire,Paris,75011, France,restaurant,Chinois/Vietnamien,Asiat,💸💸,Burger 🍔🍟,À faire,,,,"[2.394371, 48.849652]",2.394371,48.849652
+Le Bon Panneton,105 Rue Saint-Charles,Paris,75015, France,restaurant,La Boulangerie où j’ai pris le meilleur gâteau d’anniversaire de ma vie.,💸💸,Pâtisseries,Validé ✅,Boulangerie 🥖,,,,"[2.2848212, 48.84556300000001]",2.2848212,48.84556300000001
+Joe Burger,49 Rue Descartes,Paris,75005,France,fastfood,Bon et pas cher.,💸,Burger 🍔🍟,Validé ✅,,,,,"[2.3492131, 48.8451247]",2.3492131,48.8451247
+Le Why Not,39 Avenue de Fontainebleau 94270 Le Kremlin-Bicêtre France,Le Kremlin-Bicêtre,94270,France,restaurant,,Halal,💸,Snack,À faire,,,,"[2.3615547, 48.813439]",2.3615547,48.813439
+CHICKEN STREET,67 Boulevard Paul Vaillant Couturier,Ivry-sur-Seine,94200, France,restaurant,,💸,Burger 🍔🍟,Halal,Poulet 🐔,À faire,,,"[2.398984500000001, 48.8174296]",2.398984500000001,48.8174296
+Cultura,Centre commercial Vill'Up Paris 75019,Paris,75019,France,library,,Librairie,À faire,,,,,,"[2.2372436, 48.8907341]",2.2372436,48.8907341
+Cultura,Centre commercial Vill'Up Paris 75019,Paris,75019,France,library,,Librairie,À faire,,,,,,"[2.3887829, 48.8964689]",2.3887829,48.8964689
+Cultura,Centre Commercial Les 4 Temps 16 Parvis de la Defense Puteaux 92800,Puteaux,92800,France,library,,💸,Librairie,À faire,,,,,"[2.2372436, 48.8907341]",2.2372436,48.8907341
+Cultura,Centre Commercial Les 4 Temps 16 Parvis de la Defense Puteaux 92800,Puteaux,92800,France,library,,💸,Librairie,À faire,,,,,"[2.3887829, 48.8964689]",2.3887829,48.8964689
+Album Comics,67 Boulevard Saint-Germain,Paris,75005, France,shopping,,Comics | Mangas,Validé ✅,,,,,,"[2.3456332, 48.85064269999999]",2.3456332,48.85064269999999
+Andalouz Pizza,122 Route de Saint-Leu 93430 Villetaneuse France,Villetaneuse,93430,France,restaurant,Allez y uniquement si vous avez vraiment faim.,💸,Validé ✅,Grec 🥙,Pizza 🍕,,,,"[2.3340896, 48.9550148]",2.3340896,48.9550148
+Royal Chicken,119 Avenue Stalngrad,Stains,93240, France,restaurant,,Burger 🍔🍟,Grec 🥙,💸,,,,,"[2.3877226, 48.95151130000001]",2.3877226,48.95151130000001
+Central Comics Paris,25 rue de l'Ambroisie,Paris,75012,France,library,,Comics | Mangas,À faire,,,,,,"[2.3853771, 48.8344983]",2.3853771,48.8344983
+Gumbo YaYa,3 Rue Charles Robin 75010 Paris,Paris,75010, France,restaurant,,💸💸,Soul Food,Validé ✅,,,,,"[2.3700511, 48.87718880000001]",2.3700511,48.87718880000001
+Comptoir Veggie,75 Avenue Ledru-Rollin,Paris,75012, France,fastfood,,À faire,Bio 👨‍🌾,Vege/Vegan 🌱,,,,,"[2.374735, 48.8502203]",2.374735,48.8502203
+Le Train Bleu,Pl. Louis-Armand,Paris,75012, France,restaurant,,Poisson 🐟,💸💸💸,À faire,TheFork 🍴,,,,"[2.3733093, 48.8448792]",2.3733093,48.8448792
+Ober Mamma,107 Boulevard Richard-Lenoir,Paris,75011, France,restaurant,Une des meilleure pizza que j’ai pu manger de ma vie.,Pizza 🍕,Validé ✅,Big Mamma,💸💸,,,,"[2.3701153, 48.8644444]",2.3701153,48.8644444
+East Mamma,133 Rue du Faubourg Saint-Antoine,Paris,75011,France,restaurant,,💸💸,Big Mamma,Pizza 🍕,À faire,,,,"[2.3777799, 48.8510418]",2.3777799,48.8510418
+Little Baobei,7 Rue de Châteaudun,Paris,75009, France,fastfood,,💸💸,Burger 🍔🍟,Halal,Validé ✅,,,,"[2.3414088, 48.8756732]",2.3414088,48.8756732
+ROOMIES,14 Rue du Cygne,Paris,75001, France,fastfood,,Burger 🍔🍟,💸💸,,,,,,"[2.3485865, 48.86345300000001]",2.3485865,48.86345300000001
+Le Constantinople,96 Avenue de Fontainebleau,Le Kremlin-Bicêtre,94270, France,restaurant,La viande du grec est bonne mais l’ensemble n’est pas exceptionnel,Burger 🍔🍟,Grec 🥙,Fait ✔️,💸,,,,"[2.3619287, 48.8102681]",2.3619287,48.8102681
+Harry's Cafe,27 Rue Jules Guesde 93140 Bondy France,Bondy,93140,France,fastfood,,💸,Burger 🍔🍟,À faire,,,,,"[2.4765999, 48.9040115]",2.4765999,48.9040115
+Pizza San Marco Paris,52 Rue Saint-Maur 75011 Paris France,Paris,75011,France,fastfood,,💸,Pizza 🍕,À faire,,,,,"[2.3798344, 48.8625999]",2.3798344,48.8625999
+Pho Bida Viet Nam,36-38 Rue nationale,Paris,75013, France,restaurant,Vietnamien,Asiat,🍴 inconnu,À faire,,,,,"[2.3680862, 48.82428880000001]",2.3680862,48.82428880000001
+CLUBURGER,14 Place de la Barre,Deuil-la-Barre,95170, France,restaurant,,💸💸,Burger 🍔🍟,À faire,,,,,"[2.3171168, 48.9674151]",2.3171168,48.9674151
+Meal Time,35 Avenue de Clichy,Paris,75017, France,restaurant,,Burger 🍔🍟,Grec 🥙,💸,,,,,"[2.3260492, 48.8860928]",2.3260492,48.8860928
+Rosaparks,46 Rue Jean-Pierre Timbaud,Paris,75011, France,fastfood,,💸💸,Burger 🍔🍟,À faire,TheFork 🍴,,,,"[2.372345, 48.866297]",2.372345,48.866297
+Mac Halal Restaurant,46 Avenue Louis Aragon,Bobigny,93000, France,restaurant,,💸,Burger 🍔🍟,Grec 🥙,Halal,À faire,,,"[2.4400426, 48.9142637]",2.4400426,48.9142637
+5PIZZ,30 Rue Marx Dormoy,Paris,75018, France,restaurant,,💸,Pizza 🍕,À faire,,,,,"[2.3597531, 48.8865985]",2.3597531,48.8865985
+Bioburger Victoire,10 Rue de la Victoire,Paris,75009, France,fastfood,,💸,Burger 🍔🍟,Bio 👨‍🌾,Vege/Vegan 🌱,Validé ✅,,,"[2.3400987, 48.8750909]",2.3400987,48.8750909
+Le Miam's,Mail des Mèches 94000 Créteil France,Créteil,94000,France,fastfood,,💸,Grec 🥙,Burger 🍔🍟,Halal,Validé ✅,,,"[2.4496799, 48.78946570000001]",2.4496799,48.78946570000001
+Pépé Santana Paris 15,171 Boulevard Lefebvre,Paris,75015, France,restaurant,,Burger 🍔🍟,Grec 🥙,💸,À faire,,,,"[2.301956300000001, 48.8286914]",2.301956300000001,48.8286914
+Gout Doux,97 Avenue d'Argenteuil 92600 Asnières-sur-Seine France,Asnières-sur-Seine,92600,France,fastfood,,💸,À faire,Grec 🥙,,,,,"[2.2828647, 48.9149137]",2.2828647,48.9149137
+Villa Maasai - Restaurant Africain,9 Boulevard des Italiens,Paris,75002,France,restaurant,,💸💸,Africain,À faire,,,,,"[2.3385767, 48.8715407]",2.3385767,48.8715407
+Kodawari Ramen,29 Rue Mazarine,Paris,75006, France,restaurant,Japonais,💸💸,Asiat,Validé ✅,,,,,"[2.3381383, 48.8546132]",2.3381383,48.8546132
+Pascal & Anthony,32 Rue de Dantzig,Paris,75015, France,bakery,,💸💸,Boulangerie 🥖,Pâtisseries,À faire,,,,"[2.2986431, 48.8336157]",2.2986431,48.8336157
+Eugène,48 Rue du Hameau,Paris,75015, France,cafe,,🍴 inconnu,Café,À faire,,,,,"[2.2865845, 48.8336786]",2.2865845,48.8336786
+VG Pâtisserie,123 Boulevard Voltaire,Paris,75011, France,bakery,,💸,Pâtisseries,À faire,,,,,"[2.3820088, 48.85693300000001]",2.3820088,48.85693300000001
+La Brigade - Oberkampf,103 Rue Oberkampf Paris 75011,Paris,75011,France,restaurant,,Viande,💸💸,Validé ✅,TheFork 🍴,,,,"[2.376899299999999, 48.8656309]",2.376899299999999,48.8656309
+Arabian Oud,63 Avenue des Champs-Élysées 75008 Paris France,Paris,75008,France,shopping,,💸💸💸,Parfumerie,À faire,,,,,"[2.3044206, 48.8703697]",2.3044206,48.8703697
+ABDUL SAMAD AL QURASHI,45 Avenue George V,Paris,75008, France,shopping,,💸💸💸,Parfumerie,À faire,,,,,"[2.3006061, 48.8706232]",2.3006061,48.8706232
+Le temps et le pain,7 Rue Mouton-Duvernet,Paris,75014, France,bakery,,💸💸,Boulangerie 🥖,Pâtisseries,À faire,,,,"[2.3288448, 48.8315518]",2.3288448,48.8315518
+Hayaku Shop,4 Rue Dante,Paris,75005, France,shopping,,Librairie,À faire,,,,,,"[2.3468041, 48.8513927]",2.3468041,48.8513927
+La French Touch,137 Rue des Fauvelles,Courbevoie,92250, France,restaurant,,💸💸,Burger 🍔🍟,À faire,,,,,"[2.232582, 48.900863]",2.232582,48.900863
+La Comedia,107 Rue Monge,Paris,75005, France,restaurant,,Pizza 🍕,💸💸,À faire,,,,,"[2.3517967, 48.8402412]",2.3517967,48.8402412
+Au P'tit Grec,68 Rue Mouffetard,Paris,75005, France,shopping,,💸,Grec 🇬🇷,Halal,Validé ✅,,,,"[2.3495575, 48.8427708]",2.3495575,48.8427708
+Guimi House,38 Rue de Turbigo,Paris,75003, Francia,shopping,,Guimi,À faire,,,,,,"[2.343082, 48.8740984]",2.343082,48.8740984
+Guimi House,38 Rue de Turbigo,Paris,75003, Francia,shopping,,Guimi,À faire,,,,,,"[2.3538742, 48.86484789999999]",2.3538742,48.86484789999999
+闺蜜甜品,48 Rue René Boulanger,Paris,75010, France,restaurant,,Guimi,🍴 inconnu,À faire,,,,,"[2.360191, 48.86861989999999]",2.360191,48.86861989999999
+Guimi House,54 Rue Richer,Paris,75009, France,restaurant,,Guimi,Asiat,🍴 inconnu,À faire,,,,"[2.343082, 48.8740984]",2.343082,48.8740984
+Guimi House,54 Rue Richer,Paris,75009, France,restaurant,,Guimi,Asiat,🍴 inconnu,À faire,,,,"[2.3538742, 48.86484789999999]",2.3538742,48.86484789999999
+Le Gribouille,44 Rue de Rivoli,Paris,75004, France,restaurant,,💸💸,Bar,À faire,TheFork 🍴,,,,"[2.3552514, 48.8567371]",2.3552514,48.8567371
+French Home,29 Rue Marx Dormoy ,Paris,75018,France,fastfood,,💸,Halal,Burger 🍔🍟,À faire,,,,"[2.3592402, 48.8866398]",2.3592402,48.8866398
+Choco Factory,13 Rue de Médicis,Paris,75006, France,cafe,,💸💸,Pâtisseries,Validé ✅,,,,,"[2.340136499999999, 48.84794520000001]",2.340136499999999,48.84794520000001
+Le Butcher,157 Rue du Faubourg Saint-Honoré,Paris,75008, France,restaurant,,💸💸,Burger 🍔🍟,Halal,À faire,TheFork 🍴,,,"[2.306667999999999, 48.87434999999999]",2.306667999999999,48.87434999999999
+Les Grands Enfants,160 Boulevard de Charonne,Paris,75020, France,restaurant,,💸💸,Restaurant,À faire,TheFork 🍴,,,,"[2.3944834, 48.8568482]",2.3944834,48.8568482
+La petite étoile,30 Rue Voltaire,Levallois-Perret,92300, France,restaurant,,Pizza 🍕,Halal,Pâtes 🍝,Restaurant,💸💸,À faire,TheFork 🍴,"[2.283871099999999, 48.8917148]",2.283871099999999,48.8917148
+La Grande Épicerie de Paris,38 Rue de Sèvres,Paris,75007, France,shopping,,💸💸💸,Epicierie Fine,Validé ✅,Grand Magasin 🛍,2️⃣,,,"[2.3239013, 48.8505159]",2.3239013,48.8505159
+Tea & Waffle,62 Rue Monsieur le Prince Paris France,Paris,75006,France,supermarket,J’avais pris un waffle 2 boules. Vraiment très bon.,Validé ✅,💸,Salon de thé 🍵,,,,,"[2.3407636, 48.8479689]",2.3407636,48.8479689
+Rapid'Naan,52 Rue du Faubourg du Temple 75011 Paris France,Paris,75011,France,fastfood,,Grec 🥙,Tacos 🇫🇷,💸,À faire,,,,"[2.3702811, 48.8696047]",2.3702811,48.8696047
+La Roses de DAMAS,6 Boulevard Saint-Germain,Paris,75005, France,restaurant,,Halal,Libanais 🇱🇧,À faire,,,,,"[2.3551875, 48.8495502]",2.3551875,48.8495502
+Benedict,19 Rue Sainte-Croix de la Bretonnerie,Paris,75004, France,restaurant,,💸💸,Restaurant,À faire,,,,,"[2.356082, 48.85816430000001]",2.356082,48.85816430000001
+L'envol,24 Av. Du Maréchal Foch Chelles 77500,Chelles,77500,France,restaurant,,💸💸,Africain,,,,,,"[2.5789896, 48.872734]",2.5789896,48.872734
+Poulet braise,106 Rue de Clignancourt,Paris,75018, France,restaurant,,Africain,Poulet 🐔,Halal,🍴 inconnu,À faire,,,"[2.3491466, 48.8927838]",2.3491466,48.8927838
+Andiamo,15 Cours Mgr Roméro,Évry,91000, France,restaurant,,💸,Restaurant,À faire,,,,,"[2.4297515, 48.62313220000001]",2.4297515,48.62313220000001
+Grazie,91 Boulevard Beaumarchais,Paris,75003, France,restaurant,,💸💸,Pizza 🍕,Validé ✅,Zenchef,2️⃣,,,"[2.3672784, 48.8593718]",2.3672784,48.8593718
+Le 1818 | Restaurant Halal Paris | Restaurant Halal Paris 16,2 Rue de Sontay,Paris,75016, France,restaurant,,💸💸,Halal,Restaurant,À faire,,,,"[2.284879, 48.870179]",2.284879,48.870179
+O'scià Pizzeria Napoletana,42 Rue Tiquetonne,Paris,75002,France,restaurant,,💸💸,Pizza 🍕,À faire,Zenchef,,,,"[2.3474451, 48.86485320000001]",2.3474451,48.86485320000001
+Frog POP-UP,176 Rue Montmartre,Paris,75002, France,bar,,Restaurant,💸💸,À faire,Zenchef,,,,"[2.3430232, 48.8710086]",2.3430232,48.8710086
+Ippudo Louvre,74-76 Rue Jean-Jacques Rousseau,Paris,75001,France,restaurant,Japonais,💸💸,Asiat,À faire,,,,,"[2.34462, 48.86452]",2.34462,48.86452
+La Frontera Créteil,7 Rue du Général de Larminat,Créteil,94000, France,restaurant,,💸,Halal,Hispanique,À faire,,,,"[2.4536796, 48.7835097]",2.4536796,48.7835097
+Baagaa Trocadero,54 Rue de Longchamp Paris France,Paris,75016,France,fastfood,,💸💸,Burger 🍔🍟,Baāgaā,À faire,,,,"[2.2874067, 48.8651153]",2.2874067,48.8651153
+Baagaa Montorgueil,28 Rue Léopold Bellan Paris France,Paris,75016,France,restaurant,,💸💸,Burger 🍔🍟,Baāgaā,À faire,,,,"[2.345250000000001, 48.86672799999999]",2.345250000000001,48.86672799999999
+Brasserie Zimmer,1 Place du Châtelet,Paris,75016, France,restaurant,,💸💸,Restaurant,À faire,TheFork 🍴,,,,"[2.346889, 48.857807]",2.346889,48.857807
+Le Cafe Lomi,3TER Rue Marcadet Paris France,Paris,75016,France,shopping,,💸💸,Café,À faire,,,,,"[2.3553145, 48.89030769999999]",2.3553145,48.89030769999999
+L'Atelier Corse,21 Rue du Général Leclerc,Mennecy,91540, France,restaurant,,Restaurant,🍴 inconnu,À faire,,,,,"[2.4340095, 48.5699129]",2.4340095,48.5699129
+IKEA Food,35 Rue Jean Jaurès,Villiers,94350, France,shopping,Tarte au daim,💸,Suédois 🇸🇪,Validé ✅,,,,,"[2.5300762, 48.8280186]",2.5300762,48.8280186
+Boutique Angelina Paris,108 Rue du Bac,Paris,75007,France,shopping,,💸💸,Pâtisseries,,,,,,"[2.3235883, 48.8531554]",2.3235883,48.8531554
+Parc des Beaumonts,93100 Montreuil,Montreuil,93100,France,forest,,Le Parc,Parcs,,,,,,"[2.45366, 48.85688409999999]",2.45366,48.85688409999999
+La Cure Gourmande,49 Avenue de l'Opéra 75002 Paris France,Paris,75002,France,restaurant,C’est cher mais c’est très bon. PS: Prenez les gâteaux plutôt que les bonbons.,💸💸,Pâtisseries,Validé ✅,,,,,"[2.33236, 48.8698057]",2.33236,48.8698057
+Showcolat,21 Rue de Rochechouart,Paris,75009, France,restaurant,,Pâtisseries,À faire,,,,,,"[2.344688, 48.877636]",2.344688,48.877636
+House of 3 brothers,25 Rue de Lancry,Paris,75010, France,bakery,,💸,À faire,Pâtisseries,,,,,"[2.3608404, 48.8702307]",2.3608404,48.8702307
+Chipotle Mexican Grill,2 Rue Linois,Paris,75015,France,fastfood,,💸💸,Hispanique,Validé ✅,,,,,"[2.2823663, 48.8491498]",2.2823663,48.8491498
+Promenade plantée,Promenade Plantée 75012 Paris France,Paris,75012,France,train,,Parcs,Validé ✅,,,,,,"[2.371466, 48.8493828]",2.371466,48.8493828
+Parc André Citroën,2 Rue Cauchy,Paris,75015, France,beach,,Parcs,Validé ✅,,,,,,"[2.2753752, 48.840971]",2.2753752,48.840971
+Parc Monceau,75008 Paris France,Paris,75008,France,tourism,,Parcs,,,,,,,"[2.308955, 48.8796835]",2.308955,48.8796835
+Buttes Chaumont,France,Paris,75019,France,generic,,Parcs,Validé ✅,,,,,,"[2.3812963, 48.87809900000001]",2.3812963,48.87809900000001
+Square de la Butte du Chapeau Rouge,75019 Paris,Paris,75019,France,beach,,Parcs,,,,,,,"[2.3989933, 48.88185889999999]",2.3989933,48.88185889999999
+Parc de la Villette,Avenue Jean Jaurès 75019 Paris France,Paris,75019,France,beach,,Parcs,Validé ✅,,,,,,"[2.39026, 48.8938489]",2.39026,48.8938489
+Cuvier-Jardin des Plantes,7 Rue Linné 75005 Paris France,Paris,75005,France,train,,Parcs,Validé ✅,À faire,,,,,"[2.35567, 48.84215]",2.35567,48.84215
+Square Jehan Rictus,1 Rue de la Vieuville 75018 Paris France,Paris,75018,France,beach,,Parcs,Validé ✅,,,,,,"[2.3386422, 48.8847485]",2.3386422,48.8847485
+Pizzeria Popolare,111 Rue Réaumur,Paris,75002,France,restaurant,,💸,Big Mamma,Pizza 🍕,Validé ✅,2️⃣,,,"[2.343293, 48.868127]",2.343293,48.868127
+Seven7 Délices du monde,32 Clos des Cascades,Noisy-le-Grand,93160, France,restaurant,,Africain,💸💸,À faire,,,,,"[2.5480209, 48.84193029999999]",2.5480209,48.84193029999999
+Parc de la Butte Verte,1 Bd du Champy-Richardets,Noisy-le-Grand,93160, France,school,,Parcs,Validé ✅,,,,,,"[2.5781249, 48.8371522]",2.5781249,48.8371522
+Jardin du Palais Royal,Paris-1ER-Arrondissement，,Paris,75001,France,historic,,Parcs,Validé ✅,,,,,,"[2.3378061, 48.8649723]",2.3378061,48.8649723
+B&M Burgers restaurant,98 Rue des Martyrs,Paris,75018, France,fastfood,"Tu savoures chaque bouchée du burger et des frites. PS : Mettez du chili flakes sur vos frites et dans votre burger, ça fait la diff.",💸💸,Burger 🍔🍟,Validé ✅,RIP (Fermé definitivement),,,,"[2.3398743, 48.8844027]",2.3398743,48.8844027
+Koff,15 Rue la Vieuville,Paris,75018, France,restaurant,,💸💸,Burger 🍔🍟,À faire,,,,,"[2.3400721, 48.8847312]",2.3400721,48.8847312
+PARIS - PORTO,100 Rue des Martyrs,Paris,75018, France,bakery,,💸,Portugal 🇵🇹,Epicierie,Validé ✅,,,,"[2.3398486, 48.8845568]",2.3398486,48.8845568
+La pâtisserie Gilles Marchal,9 Rue Ravignan,Paris,75018, France,restaurant,,Pâtisseries,💸💸,À faire,,,,,"[2.3377974, 48.88566529999999]",2.3377974,48.88566529999999
+Sofra,91 Avenue Edouard Vaillant,Boulogne-Billancourt,92100, France,restaurant,Le grec cuit au four 👌🏾. J’y retournerai prendre d’autres sandwichs car c’est vraiment très bon.,💸,Snack,Halal,Grec 🥙,Validé ✅,,,"[2.2455606, 48.83404360000001]",2.2455606,48.83404360000001
+Lunch Club,8 Avenue Jean Jaurès,Paris,75019, France,restaurant,J’ai pris le spécial vraiment bon en plus t’es calé pour pas cher qualité prix au top,💸,Halal,Grec 🥙,Validé ✅,,,,"[2.3710584, 48.8828378]",2.3710584,48.8828378
+Restaurant Le Rhumel,7 Boulevard de Belleville,Paris,75011, France,restaurant,,Restaurant,🍴 inconnu,À faire,,,,,"[2.3821095, 48.8675874]",2.3821095,48.8675874
+Lodoss Chicken,75 Avenue de la Porte des Lilas,Les Lilas,93260, France,restaurant,Le sandwich est bon mais les frites sont mauvaises,💸,Snack,Grec 🥙,Halal,Fait ✔️,,,"[2.4124257564544678, 48.87894058227539]",2.4124257564544678,48.87894058227539
+Les Saveurs De Gagny,38 Bis Avenue Jean Jaurès,Gagny,93220, France,restaurant,,💸,Snack,Grec 🥙,Halal,À faire,,,"[2.5260206, 48.88287750000001]",2.5260206,48.88287750000001
+2.4.6.,13 Rue Georges Brassens 91080 Évry-Courcouronnes France,Évry-Courcouronnes,91080,France,fastfood,,💸,Snack,Tacos 🇫🇷,Grec 🥙,Burger 🍔🍟,À faire,,"[2.4217179, 48.6263393]",2.4217179,48.6263393
+Le Plateau,69TER Rue Pierre Brossolette 91130 Ris-Orangis France,Ris-Orangis,91130,France,restaurant,,Snack,Grec 🥙,Halal,🍴 inconnu,À faire,,,"[2.408605, 48.64882780000001]",2.408605,48.64882780000001
+Mad in Food,20 Grand'Rue 91600 Savigny-sur-Orge France,Savigny-sur-Orge,91600,France,fastfood,,💸,Halal,Snack,Grec 🥙,Tacos 🇫🇷,À faire,,"[2.3555927, 48.6769008]",2.3555927,48.6769008
+So Square,151 Avenue du Général de Gaulle 91170 Viry-Châtillon France,Viry-Châtillon,91170,France,fastfood,,💸,Halal,Snack,Grec 🥙,Tacos 🇫🇷,À faire,,"[2.3759114, 48.6836902]",2.3759114,48.6836902
+Snack Aksaray Istambul,8 Rue Gambetta 91290 Arpajon France,Arpajon,91290,France,supermarket,,Snack,Grec 🥙,Halal,🍴 inconnu,À faire,,,"[2.250827, 48.587942]",2.250827,48.587942
+O' Crousti D'Asie,154 Boulevard Robert Ballanger,Villepinte,93420, France,restaurant,,Snack,Asiat,🍴 inconnu,À faire,,,,"[2.5379735, 48.9550734]",2.5379735,48.9550734
+Pizza News,9 Place Gaston Bussière 93270 Sevran France,Sevran,93270,France,fastfood,,💸,Halal,Snack,Pizza 🍕,À faire,,,"[2.529427, 48.937276]",2.529427,48.937276
+Big Dal,74 Route de Mitry,Aulnay-sous-Bois,93600, France,restaurant,,💸,Halal,Grec 🥙,À faire,,,,"[2.5029785, 48.94057100000001]",2.5029785,48.94057100000001
+2004 Chicken Family,4 Avenue Louis Aragon 93000 Bobigny France,Bobigny,93000,France,fastfood,,Snack,Burger 🍔🍟,Tacos 🇫🇷,Halal,Grec 🥙,💸,À faire,"[2.4374878, 48.9130747]",2.4374878,48.9130747
+Tacos 93,131BIS Avenue Jean Jaurès 93120 La Courneuve France,La Courneuve,93120,France,fastfood,,Snack,Tacos 🇫🇷,Halal,À faire,,,,"[2.4101193, 48.9211576]",2.4101193,48.9211576
+Le Mistral,89 Boulevard Édouard Vaillant 93300 Aubervilliers France,Aubervilliers,93300,France,fastfood,,💸,Snack,Halal,À faire,,,,"[2.4000108, 48.9183732]",2.4000108,48.9183732
+QUARTER | Restaurant & Coffee,187 Avenue Jean Jaurès,Paris,75019, France,restaurant,,💸,Halal,Snack,À faire,,,,"[2.3892461, 48.8881515]",2.3892461,48.8881515
+Alto'Tacos,191 Rue de Crimée 75019 Paris France,Paris,75019,France,restaurant,,💸,Snack,Halal,Pizza 🍕,Pâtes 🍝,À faire,,"[2.3761569, 48.89100010000001]",2.3761569,48.89100010000001
+Chez Publicite Daniel,18 Boulevard Ney 75018 Paris France,Paris,75018,France,business,,💸,Snack,Halal,Grec 🥙,À faire,,,"[2.3696346, 48.89884060000001]",2.3696346,48.89884060000001
+O'DELICE l'original,171 Avenue de Clichy,Paris,75017, France,restaurant,,Snack,Burger 🍔🍟,Halal,🍴 inconnu,À faire,,,"[2.316426, 48.89249]",2.316426,48.89249
+Good Thai,50 Avenue Pierre Semard,Ivry-sur-Seine,94200, France,restaurant,Thai,💸💸,Halal,Asiat,Snack,À faire,,,"[2.3805259, 48.8188791]",2.3805259,48.8188791
+Alfaroj Lmashwi,9 Avenue du 8 Mai 1945,Vitry-sur-Seine,94400, France,restaurant,,💸,Snack,Libanais 🇱🇧,Halal,Validé ✅,TheFork 🍴,,"[2.397632499999999, 48.78424019999999]",2.397632499999999,48.78424019999999
+L'Escale du Palais,33 Allée Parmentier 94000 Créteil France,Créteil,94000,France,restaurant,,💸,Halal,Snack,Grec 🥙,Tacos 🇫🇷,À faire,,"[2.4447006, 48.78620780000001]",2.4447006,48.78620780000001
+Kydam,1 Avenue Auguste Marin 94100 Saint-Maur-des-Fossés France,Saint-Maur-des-Fossés,94100,France,fastfood,,💸,Halal,Snack,Burger 🍔🍟,Grec 🥙,À faire,,"[2.4714645, 48.8083176]",2.4714645,48.8083176
+Fast-food My Sandwich,8 Avenue Maréchal Randon,Grenoble,38000, France,restaurant,,Snack,Grec 🥙,Tacos 🇫🇷,Halal,💸,À faire,,"[5.739033699999998, 45.19915049999999]",5.739033699999998,45.19915049999999
+Frenchy Tacos,1387 Route de Beaurepaire,Saint-Barthelemy,38270, France,restaurant,,Snack,Tacos 🇫🇷,Halal,🍴 inconnu,À faire,,,"[5.066032299999999, 45.3418194]",5.066032299999999,45.3418194
+L'oasis Chicken Chika,116 Rue Crozet Boussingault,Saint-Étienne,42100, France,restaurant,,💸,Halal,Snack,Grec 🥙,À faire,,,"[4.4100211, 45.4162884]",4.4100211,45.4162884
+Easy Food Pierre Bénite,87 Rue des Martyrs de la Libération,Pierre-Bénite,69310, France,restaurant,,💸,Snack,Halal,Grec 🥙,Tacos 🇫🇷,Pizza 🍕,À faire,"[4.823237, 45.702946]",4.823237,45.702946
+Mis Kebab,68 Avenue Viviani,Vénissieux,69200, France,restaurant,,💸,Snack,Grec 🥙,Halal,,,,"[4.8724319, 45.7236235]",4.8724319,45.7236235
+Foolek Pizz',86 Cours Emile Zola,Villeurbanne,69100, France,restaurant,,Snack,Halal,🍴 inconnu,À faire,,,,"[4.871422, 45.7708142]",4.871422,45.7708142
+Ain El Fouara,47 rue colin 69100 villeurbanne,Villeurbanne,69100, France,restaurant,,💸,Burger 🍔🍟,Grec 🥙,Halal,Snack,Pizza 🍕,Validé ✅,"[4.874138699999999, 45.77261119999999]",4.874138699999999,45.77261119999999
+Derk-food,13 Rue du Faubourg Saint-Pierre,Pontarlier,25300, France,restaurant,,Snack,Halal,🍴 inconnu,À faire,,,,"[6.351465799999999, 46.9048295]",6.351465799999999,46.9048295
+Le Big Mama,32 Rue du Faubourg-de-Pierre,Strasbourg,67000, France,restaurant,,💸,Snack,Halal,À faire,,,,"[7.745753000000001, 48.588705]",7.745753000000001,48.588705
+Mail Burger,10 Mail François Mitterrand,Rennes,35000, France,restaurant,,💸,Halal,Snack,Grec 🥙,Tacos 🇫🇷,À faire,,"[-1.6872032, 48.1102932]",-1.6872032,48.1102932
+Escale K,2 Rue Robert Schuman,Bègles,33130, France,restaurant,,Snack,Burger 🍔🍟,Pâtes 🍝,Halal,🍴 inconnu,À faire,,"[-0.5506120000000001, 44.812037]",-0.5506120000000001,44.812037
+Burger Store,26 Rue Camille Pelletan,Cenon,33150,France,restaurant,,💸,Halal,Burger 🍔🍟,À faire,,,,"[-0.5197669000000001, 44.86162270000001]",-0.5197669000000001,44.86162270000001
+Yummy Sandwicherie,28 Rue Montmailler 87000 Limoges France,Limoges,87000,France,fastfood,,Snack,Grec 🥙,Halal,💸,À faire,,,"[1.2545228, 45.8335666]",1.2545228,45.8335666
+Ô Regal,137 Boulevard du Grand Cerf,Poitiers,86000, France,restaurant,,Snack,Grec 🥙,Halal,💸,À faire,,,"[0.3341384, 46.58224389999999]",0.3341384,46.58224389999999
+Fratelli,5bis Avenue de la Bolière,Orléans,45100, France,restaurant,,Snack,Tacos 🇫🇷,Grec 🥙,Burger 🍔🍟,Halal,💸,À faire,"[1.9343153, 47.83862269999999]",1.9343153,47.83862269999999
+Aladin Pizza,19 Avenue Lucien Cornet 89100 Sens France,Sens,89100,France,supermarket,,💸,Burger 🍔🍟,Halal,Snack,Pizza 🍕,À faire,,"[3.2742598, 48.19747220000001]",3.2742598,48.19747220000001
+Bricktop Pizza,153 Quai de Valmy Paris France,Paris,75010,France,restaurant,,💸,Pizza 🍕,Validé ✅,,,,,"[2.3655598, 48.8780483]",2.3655598,48.8780483
+Shiso Burger,21 Quai Saint-Michel,Paris,75005, France,fastfood,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[2.3453281, 48.85338050000001]",2.3453281,48.85338050000001
+Bistro&Gâteaux les Artizans,30 Rue Montorgueil,Paris,75001, France,bakery,,💸💸,Restaurant,Pâtisseries,À faire,TheFork 🍴,,,"[2.3466439, 48.8637614]",2.3466439,48.8637614
+THE FRENCH DONUTS,56 Rue la Bruyère,Paris,75009, France,donuts,,💸,Pâtisseries,À faire,,,,,"[2.331739299999999, 48.8801457]",2.331739299999999,48.8801457
+FTG,9 Rue du Nil,Paris,75002, France,restaurant,Possibilité de privatisation,💸,Hot-Dog 🌭,À faire,,,,,"[2.3477324, 48.8676916]",2.3477324,48.8676916
+Nick's Pizza,24 Rue du Faubourg Montmartre,Paris,75009, France,restaurant,,💸,Halal,Pizza 🍕,Validé ✅,RIP (Fermé definitivement),,,"[2.3430433, 48.8735105]",2.3430433,48.8735105
+Taiyaki Paris,Centre Commercial Oslo,Paris,75013,France,cafe,J’ai pris un taiyaki sucré goût crème vanille. Vraiment bon. (Japonais),Pâtisseries,Validé ✅,💸,Asiat,,,,"[2.3657049, 48.8235254]",2.3657049,48.8235254
+Hamler's Burgery,12 Rue Monge,Paris,75005, France,fastfood,,💸,Burger 🍔🍟,Validé ✅,RIP (Fermé definitivement),,,,"[2.3495963, 48.8490061]",2.3495963,48.8490061
+B-BOYZ,5 Avenue Trudaine,Paris,75009, France,fastfood,,💸💸,Burger 🍔🍟,À faire,,,,,"[2.3459911, 48.881691]",2.3459911,48.881691
+Cloud Cakes,6 Rue Mandar,Paris,75002,France,bakery,,💸,Pâtisseries,À faire,,,,,"[2.34635, 48.86567300000001]",2.34635,48.86567300000001
+Maison de la Poutine - Mandar,11 Rue Mandar Paris 75002,Paris,75002,France,restaurant,,💸💸,Restaurant,À faire,,,,,"[2.34522, 48.8656626]",2.34522,48.8656626
+Boulangerie Utopie,France,Paris,75011,France,bakery,,💸💸💸,Boulangerie 🥖,,,,,,"[2.3687483, 48.86536979999999]",2.3687483,48.86536979999999
+Yann Couvreur Pâtisserie Rosiers,23 bis Rue des Rosiers 75004 Paris,Paris,75004,France,supermarket,,Pâtisseries,💸💸,Validé ✅,,,,,"[2.358768, 48.85750600000001]",2.358768,48.85750600000001
+Du Pain et des Idées,34 Rue Yves Toudic,Paris,75010, France,bakery,,Boulangerie 🥖,🍴 inconnu,À faire,,,,,"[2.3628904, 48.8712453]",2.3628904,48.8712453
+Le Ruisseau Burger Joint,22 Rue Rambuteau,Paris,75003, France,fastfood,,💸💸,Burger 🍔🍟,Bio/Vegan,À faire,,,,"[2.3544339, 48.8609932]",2.3544339,48.8609932
+BO&MIE,18 Rue de Turbigo,Paris,75002, Francia,bakery,,💸,Pâtisseries,Boulangerie 🥖,Validé ✅,,,,"[2.3504098, 48.8640826]",2.3504098,48.8640826
+B. Bell broche,74 Rue de Turbigo,Paris,75003, France,restaurant,,💸,Sandwich 🥪,À faire,,,,,"[2.3608207, 48.86643929999999]",2.3608207,48.86643929999999
+CENTRAL PARC,42 Rue du Four,Saint-Maur-des-Fossés,94100, France,bakery,,💸💸,Burger 🍔🍟,Bio/Vegan,À faire,TheFork 🍴,,,"[2.4729085, 48.81235359999999]",2.4729085,48.81235359999999
+Le NordMarais,39 Rue Notre Dame de Nazareth,Paris,75003, France,bar,,💸💸,Burger 🍔🍟,À faire,,,,,"[2.3578076, 48.86747570000001]",2.3578076,48.86747570000001
+fish!,Borough Market,London,SE1 9AL,United Kingdom,restaurant,,Restaurant,Poisson 🐟,💸💸,À faire,,,,"[-0.0902806, 51.50574830000001]",-0.0902806,51.50574830000001
+Pain Pain,88 Rue des Martyrs Paris France,Paris,75018,France,bakery,,Boulangerie 🥖,💸💸,Pâtisseries,Validé ✅,,,,"[2.3399433, 48.88345529999999]",2.3399433,48.88345529999999
+L'Echoppe de Paris,16 Rue Léon Frot,Paris,75011, France,fastfood,,💸💸,Burger 🍔🍟,À faire,TheFork 🍴,,,,"[2.387991099999999, 48.85396039999999]",2.387991099999999,48.85396039999999
+Bachir,58 Rue Rambuteau 75003 Paris France,Paris,75003,France,icecream,,💸,Libanais 🇱🇧,Validé ✅,Glaces 🍨🍦,,,,"[2.3515038, 48.8617818]",2.3515038,48.8617818
+Koreatown Galleria,3250 Olympic Blvd,Los Angeles,90006,USA,shopping,,Restaurant,À faire,,,,,,"[-118.3081936, 34.052168]",-118.3081936,34.052168
+Dos Toros Taqueria,11 Carmine St,New-York,10014,USA,restaurant,,Restaurant,Hispanique,À faire,,,,,"[-74.00226669999999, 40.7305402]",-74.00226669999999,40.7305402
+Farine&O,153 Rue du Faubourg Saint-Antoine,Paris,75011, France,bakery,,Boulangerie 🥖,💸,Validé ✅,,,,,"[2.3792563, 48.8506784]",2.3792563,48.8506784
+Cot Cot,21 Rue Gérando,Paris,75009,France,fastfood,,💸,Burger 🍔🍟,Poulet 🐔,À faire,,,,"[2.3463406, 48.8829529]",2.3463406,48.8829529
+Mamiche,45 Rue Condorcet 75009 Paris France,Paris,75009,France,bakery,,💸💸,Boulangerie 🥖,Validé ✅,,,,,"[2.3435071, 48.8800657]",2.3435071,48.8800657
+Goku Asian Canteen,27 Bd du Temple,Paris,75003, France,restaurant,,💸💸,Asiat,Burger 🍔🍟,À faire,TheFork 🍴,,,"[2.3651968, 48.8650274]",2.3651968,48.8650274
+"Épicerie suédoise ""Affären""",80 Rue de Saussure,Paris,75017, France,shopping,,💸💸,Suédois 🇸🇪,Validé ✅,Epicierie Fine,,,,"[2.3134145, 48.88655]",2.3134145,48.88655
+Manga Story,13 Boulevard Voltaire Paris France,Paris,75011,France,library,,Comics | Mangas,À faire,,,,,,"[2.3670596, 48.86583900000001]",2.3670596,48.86583900000001
+La Boulang' de Rosny,12 Place Carnot,Rosny-sous-Bois,93110, France,bakery,Les gâteaux sont délicieux !,💸💸,Boulangerie 🥖,Validé ✅,,,,,"[2.4830895, 48.8736459]",2.4830895,48.8736459
+Don Antonia,Rue de la Grange aux Belles,Paris,75010, France,bakery,"Vraiment bon pour des prix très abordables. Au top 🔝
+(A été racheté par Canelas 🥲)",Pâtisseries,Portugal 🇵🇹,Validé ✅,💸,RIP (Fermé definitivement),,,"[2.3646421, 48.8733988]",2.3646421,48.8733988
+Nando's,The Gallery Stratford London E20 1 United Kingdom,London,E20,United Kingdom,restaurant,,Poulet 🐔,Validé ✅,,,,,,"[-0.0059844, 51.54343009999999]",-0.0059844,51.54343009999999
+Wendy's,335 5th Ave,New-York,10016,USA,restaurant,,Burger 🍔🍟,À faire,,,,,,"[-73.98483399999999, 40.7477751]",-73.98483399999999,40.7477751
+Chip NYC,W 14th St,New-York,10014,USA,cafe,,Cookie 🍪,À faire,,,,,,"[-74.004787, 40.74087249999999]",-74.004787,40.74087249999999
+MasterTacos,80 Rue Paul Bert,Lyon,69003, France,restaurant,,💸,Tacos 🇫🇷,Grec 🥙,À faire,,,,"[4.8511364, 45.7568547]",4.8511364,45.7568547
+Chez.bogato,7 Rue Liancourt,Paris,75014, France,donuts,,💸💸,Pâtisseries,À faire,,,,,"[2.3279004, 48.8335505]",2.3279004,48.8335505
+coffeeserie,43 Rue de la Tête d'Or,Metz,57000, France,restaurant,,Salon de thé 🍵,Réservation,À faire,,,,,"[6.178622599999999, 49.1167026]",6.178622599999999,49.1167026
+Burger and Fries,1 Boulevard de Bonne Nouvelle,Paris,75002, France,fastfood,,💸,Burger 🍔🍟,Validé ✅,,,,,"[2.352397, 48.869565]",2.352397,48.869565
+La Felicità,5 Parvis Alan Turing Paris France,Paris,75013,France,restaurant,,💸💸,Big Mamma,Pizza 🍕,Burger 🍔🍟,Validé ✅,2️⃣,,"[2.3730124, 48.8321419]",2.3730124,48.8321419
+Brother’s Crêpes & Café,82 Boulevard de Rochechouart,Paris,75018, France,restaurant,,💸,Halal,Crêperie,À faire,,,,"[2.342941, 48.882831]",2.342941,48.882831
+Chez Coco,Square du Pelvoux,Vitry-sur-Seine,94400, France,restaurant,,Halal,Snack,🍴 inconnu,À faire,,,,"[2.3933391, 48.7831745]",2.3933391,48.7831745
+Best Halal,W 53rd St New York,New-York,10019,USA,restaurant,,Halal,Maghreb/Moyen-Orient,À faire,,,,,"[-73.9793609, 40.76183350000001]",-73.9793609,40.76183350000001
+El rey Del Taco Truck,3301 30th Ave,New-York,11103,USA,restaurant,,Hispanique,À faire,,,,,,"[-73.9193243, 40.7662194]",-73.9193243,40.7662194
+Young xinjiang bbq cart,2 Forsyth St,New-York,10002,USA,restaurant,,Restaurant,À faire,,,,,,"[-73.99387109999999, 40.7136538]",-73.99387109999999,40.7136538
+Van Leeuwen Artisan Ice Cream,48 E 7th St,New-York,10003,USA,icecream,,Glaces 🍨🍦,À faire,,,,,,"[-73.9876914, 40.7276926]",-73.9876914,40.7276926
+Desi Food Truck,1221 Ave of the Americas,New-York,10020,USA,restaurant,Indien,Halal,Asiat,À faire,,,,,"[-73.9803913, 40.7602489]",-73.9803913,40.7602489
+Hard Times Sundaes,5700 Avenue U,New-York,11234,USA,restaurant,,Burger 🍔🍟,💸,À faire,,,,,"[-73.9164586, 40.611972]",-73.9164586,40.611972
+Red Hook Lobster Pound,284 Van Brunt St,New-York,11231,USA,restaurant,,Restaurant,À faire,,,,,,"[-74.0103105, 40.6797578]",-74.0103105,40.6797578
+HABANERA,Calle de Génova,Madrid,28004,Spain,restaurant,,Restaurant,À faire,,,,,,"[-3.6917744, 40.4253604]",-3.6917744,40.4253604
+Chocolatería San Gines,Pasadizo San Ginés,Madrid,28013,Spain,generic,,Chocolaterie 🍫,À faire,,,,,,"[-3.7067806, 40.4167805]",-3.7067806,40.4167805
+San Miguel Market,Plaza de San Miguel,Madrid,28005,Spain,restaurant,,Restaurant,À faire,,,,,,"[-3.7087575, 40.41511060000001]",-3.7087575,40.41511060000001
+Restaurante Ten Con Ten,Cl. de Ayala,Madrid,28001,Spain,restaurant,,Restaurant,À faire,,,,,,"[-3.6887501, 40.42777580000001]",-3.6887501,40.42777580000001
+Restaurante Casa Lucio,Calle Cava Baja,Madrid,28005,Spain,restaurant,,Restaurant,💸💸,À faire,,,,,"[-3.709716, 40.412064]",-3.709716,40.412064
+Frida,Calle de San Gregorio 8,Madrid,28004,Spain,restaurant,,Restaurant,💸💸,À faire,,,,,"[-3.697049499999999, 40.4239833]",-3.697049499999999,40.4239833
+El Kiosko,Av. de Josep Tarradellas,Barcelona,08029,Spain,restaurant,,Restaurant,🍴 inconnu,À faire,,,,,"[2.143665, 41.39153400000001]",2.143665,41.39153400000001
+Kiosko de Bacoa,Av. del Marquès de l'Argentera,Barcelona,08003,Spain,restaurant,,Restaurant,À faire,,,,,,"[2.1836997, 41.38350870000001]",2.1836997,41.38350870000001
+Santa Burg,Carrer del Vallespir,Barcelona,08014,Spain,restaurant,,Restaurant,À faire,,,,,,"[2.136761299999999, 41.37972909999999]",2.136761299999999,41.37972909999999
+BRO Room,Carrer de Còrsega,Barcelona,08025,Spain,restaurant,,Restaurant,💸,À faire,,,,,"[2.1736622, 41.4071164]",2.1736622,41.4071164
+Timesburg Paris,Carrer de París,Barcelona,08029,Spain,restaurant,,Restaurant,À faire,TheFork 🍴,,,,,"[2.1468417, 41.38909020000001]",2.1468417,41.38909020000001
+DE PAULA - L´HAMBURGUESERIA DEL POBLE SEC,Carrer de la Creu dels Molers,Barcelona,08004,Spain,restaurant,,💸,Burger 🍔🍟,À faire,,,,,"[2.16135, 41.372399]",2.16135,41.372399
+Pim Pam Plats,Carrer del Rec,Santa Caterina,08003,Spain,restaurant,,Restaurant,À faire,,,,,,"[2.1823945, 41.38573]",2.1823945,41.38573
+Makamaka,Passeig de Joan de Borbó Comte de Barcelona,Barcelona,08039,Spain,restaurant,,Restaurant,À faire,,,,,,"[2.188563900000001, 41.3757436]",2.188563900000001,41.3757436
+KERB Camden Market,Camden Market,London,NW1 8AF,United Kingdom,restaurant,,Restaurant,🍴 inconnu,À faire,,,,,"[-0.146438, 51.541307]",-0.146438,51.541307
+Jardin des artistes,93160 Noisy-le-Grand,Noisy-le-Grand,93160,France,beach,,Parcs,,,,,,,"[2.5513508, 48.84507000000001]",2.5513508,48.84507000000001
+Pink Mamma,20 Rue de Douai,Paris,75009, France,restaurant,,Big Mamma,Restaurant,💸💸,À faire,2️⃣,,,"[2.334484, 48.8819398]",2.334484,48.8819398
+MELT OBERKAMPF,74 Rue Folie Méricourt,Paris,75011,France,restaurant,,💸💸,Viande,Restaurant,À faire,,,,"[2.3708026, 48.8656108]",2.3708026,48.8656108
+Oh mon Cake,154 Rue Saint-Honoré,Paris,75001, France,restaurant,,Pâtisseries,💸💸,À faire,,,,,"[2.34013, 48.86203669999999]",2.34013,48.86203669999999
+Boulangerie JOSEPH,42 Rue des Petits Champs,Paris,75002, France,restaurant,,Pâtisseries,🍴 inconnu,,,,,,"[2.3348948, 48.8673042]",2.3348948,48.8673042
+DE BELLES MANIERES,5 Rue de Turbigo,Paris,75001, France,restaurant,,Pâtisseries,Boulangerie 🥖,💸💸,Validé ✅,,,,"[2.3478127, 48.8637293]",2.3478127,48.8637293
+246,Pont de Créteil,Saint-Maur-des-Fossés,94100, France,generic,,💸,Grec 🥙,Halal,Validé ✅,,,,"[2.449918899999999, 48.7896139]",2.449918899999999,48.7896139
+La Folie du Burger,5 Avenue de Toulon,Marseille,13006, France,restaurant,,💸,Burger 🍔🍟,À faire,,,,,"[5.382153799999999, 43.28852800000001]",5.382153799999999,43.28852800000001
+Homer Lobster - Rambuteau,21 Rue Rambuteau,Paris,75004, France,restaurant,,💸,Restaurant,Poisson 🐟,,,,,"[2.3547084, 48.8607329]",2.3547084,48.8607329
+Le Special,2 Rue de la Paix 94600 Choisy-le-Roi France,Choisy-le-Roi,94600,France,restaurant,J’ai pris un wich. Vraiment bon et pas cher. Pour 7€ t’es rassasié pour le reste de la journée.,💸,Grec 🥙,Halal,Validé ✅,,,,"[2.419605299999999, 48.7682671]",2.419605299999999,48.7682671
+Papa Gâteau Sarl,27 Rue de Montreuil,Vincennes,94300, France,restaurant,,💸💸,Boulangerie 🥖,À faire,,,,,"[2.434558500000001, 48.848278]",2.434558500000001,48.848278
+Le Mont Liban,42 Boulevard des Batignolles,Paris,75017, France,restaurant,,Libanais 🇱🇧,💸💸,À faire,,,,,"[2.322991500000001, 48.8828725]",2.322991500000001,48.8828725
+Le Must,45 Boulevard de Stalingrad,Vitry-sur-Seine,94400, France,restaurant,,💸,Grec 🥙,À faire,,,,,"[2.3826919, 48.796858]",2.3826919,48.796858
+Pizza de ouf,10 Rue des Gardes,Paris,75018, France,restaurant,,💸,Pâtes 🍝,Pizza 🍕,À faire,,,,"[2.352984, 48.88553599999999]",2.352984,48.88553599999999
+PNY Marais,1 Rue Perrée,Paris,75003, France,restaurant,👌🏾,Validé ✅,Burger 🍔🍟,💸💸,,,,,"[2.362641, 48.86379410000001]",2.362641,48.86379410000001
+Buns Paris 5,8 Rue Gay-Lussac,Paris,75005, France,restaurant,,💸,Burger 🍔🍟,,,,,,"[2.3412396, 48.8456096]",2.3412396,48.8456096
+El Guacamole,35 Rue Yves Toudic ,Paris,75010,France,restaurant,,💸,Hispanique,À faire,,,,,"[2.362184, 48.87136479999999]",2.362184,48.87136479999999
+Boulangerie au Blé d'Or,Rue du Marché 93160 Noisy-le-Grand France,Noisy-le-Grand,93160,France,supermarket,,Boulangerie 🥖,💸,Pâtisseries,Validé ✅,,,,"[2.55375, 48.8484447]",2.55375,48.8484447
+Pizzeria Iovine's,7bis Rue du Colonel Driant,Paris,75001,France,restaurant,,Pizza 🍕,💸💸,À faire,,,,,"[2.3402909, 48.8632743]",2.3402909,48.8632743
+Iovine’S Marais,27 Rue de Bretagne Paris France,Paris,75002,France,restaurant,,💸💸,Pizza 🍕,À faire,,,,,"[2.362919499999999, 48.8625702]",2.362919499999999,48.8625702
+Makido,178 Avenue Jean Jaurès 75019 Paris France,Paris,75019,France,fastfood,,💸💸,Halal,Asiat,Validé ✅,,,,"[2.3898925, 48.8878126]",2.3898925,48.8878126
+Pizzou,28 Rue de Douai,Paris,75009,France,restaurant,,💸💸,Pizza 🍕,Validé ✅,TheFork 🍴,2️⃣,,,"[2.332935599999999, 48.8825795]",2.332935599999999,48.8825795
+Maison Plisson,93 Bd Beaumarchais,Paris,75003,France,restaurant,,Epicierie Fine,💸💸,À faire,,,,,"[2.3672909, 48.8595592]",2.3672909,48.8595592
+Berko,23 Rue Rambuteau,Paris,75004, France,restaurant,Si vous y allez prenez les cupcakes pas les cheesecakes.,💸💸,Fait ✔️,Pâtisseries,,,,,"[2.3545182, 48.8607614]",2.3545182,48.8607614
+Le Comptoir de Mathilde,42 Rue Rambuteau 75003 Paris France,Paris,75003,France,supermarket,,Epicierie Fine,Chocolaterie 🍫,À faire,,,,,"[2.352897099999999, 48.86145249999999]",2.352897099999999,48.86145249999999
+IT Rambuteau,77 Rue Rambuteau,Paris,75001, France,restaurant,,💸,Pizza 🍕,À faire,,,,,"[2.3495214, 48.86223779999999]",2.3495214,48.86223779999999
+Parfume Nicolai,45 Rue des Archives 75003 Paris France,Paris,75003,France,shopping,,Parfumerie,💸💸💸,À faire,,,,,"[2.3571074, 48.86042769999999]",2.3571074,48.86042769999999
+OBU - Organisation des Burgers Unis,200 Rue du Faubourg Saint-Martin,Paris,75010, France,restaurant,,💸💸,Burger 🍔🍟,À faire,,,,,"[2.3632435, 48.8792757]",2.3632435,48.8792757
+Le Valentin,30 Passage Jouffroy,Paris,75009, France,cafe,,Pâtisseries,À faire,,,,,,"[2.34222, 48.872347]",2.34222,48.872347
+La Rose de Tunis,67 Boulevard de Belleville 75011 Paris France,Paris,75011,France,supermarket,,Maghreb/Moyen-Orient,Pâtisseries,À faire,,,,,"[2.3782923, 48.8705424]",2.3782923,48.8705424
+Pizza Momo,105 Rue Saint-Antoine,Paris,75004, France,restaurant,,💸💸,Pizza 🍕,À faire,,,,,"[2.3612398, 48.85492190000001]",2.3612398,48.85492190000001
+Al-Ajami,58 Rue François 1er,Paris,75008, France,restaurant,,💸💸,Libanais 🇱🇧,À faire,TheFork 🍴,,,,"[2.3021490573883057, 48.869834899902344]",2.3021490573883057,48.869834899902344
+Les Deux Abeilles,189 Rue de l'Université,Paris,75007, France,restaurant,,À faire,Restaurant,,,,,,"[2.3005736, 48.8607799]",2.3005736,48.8607799
+Yokohama,6 Rue Joubert,Paris,75009, France,restaurant,Japonais,Asiat,💸💸,À faire,TheFork 🍴,,,,"[2.3318099, 48.87479119999999]",2.3318099,48.87479119999999
+Chiken Time's,96 Rue Albert Menier,Noisiel,77186, France,restaurant,,💸,Tacos 🇫🇷,Grec 🥙,À faire,,,,"[2.6285328, 48.8508241]",2.6285328,48.8508241
+Candy crepe,27 Avenue Ampère,Champs-sur-Marne,77420, France,restaurant,,💸,Crêperie,À faire,,,,,"[2.5844548, 48.84138919999999]",2.5844548,48.84138919999999
+Hall' Food,41 Allée Parmentier 94000 Créteil France,Créteil,94000,France,fastfood,,💸,Halal,Grec 🥙,À faire,,,,"[2.444577, 48.7870537]",2.444577,48.7870537
+Schwartz's Deli,22 Avenue Niel,Paris,75017, France,restaurant,,💸💸,Restaurant,Burger 🍔🍟,À faire,,,,"[2.2954208, 48.8804516]",2.2954208,48.8804516
+Le Baïli Création Burger & Tex Mex Halal,29 Rue Saint-Blaise,Paris,75020, France,restaurant,,💸💸,Restaurant,TheFork 🍴,,,,,"[2.4056591, 48.85914959999999]",2.4056591,48.85914959999999
+Emirates Coffee,41 Boulevard des Provinces Françaises,Nanterre,92000, France,restaurant,,💸,Burger 🍔🍟,Tacos 🇫🇷,Halal,Validé ✅,,,"[2.2167177, 48.9013359]",2.2167177,48.9013359
+Brother's Crêpes & Café,1 Avenue Marceau 92400 Courbevoie France,Courbevoie,92400,France,fastfood,,💸,Crêperie,Halal,À faire,,,,"[2.2471549, 48.89794699999999]",2.2471549,48.89794699999999
+Restaurant Delice Blankok,177 Rue Maxime Gorki 93150 Le Blanc-Mesnil France,Le Blanc-Mesnil,France,France,supermarket,,Grec 🥙,💸,À faire,,,,,"[2.451496833629603, 48.94526335485948]",2.451496833629603,48.94526335485948
+MG Fast Food,10 Place de,Sarcelles,95200, France,restaurant,,Grec 🥙,💸,À faire,,,,,"[2.3706662, 48.99031779999999]",2.3706662,48.99031779999999
+Spirit Cafe,11 Rue Rameau,Paris,75002, France,restaurant,,Restaurant,💸💸,À faire,,,,,"[2.337015999999999, 48.867822]",2.337015999999999,48.867822
+SO Thai,62 Rue du Capitaine Guynemer 92400 Courbevoie France,Courbevoie,92400,France,restaurant,Thaïlandais,💸,Asiat,À faire,,,,,"[2.2458083, 48.8967585]",2.2458083,48.8967585
+Crep's Crew,1 Rue du Helder,Paris,75009, France,shopping,,💸,Crêperie,À faire,,,,,"[2.3346517, 48.871342]",2.3346517,48.871342
+Asian Touch,211 Rue Saint-Maur,Paris,75010, France,restaurant,,💸,Asiat,Halal,À faire,,,,"[2.3709824, 48.8727378]",2.3709824,48.8727378
+Mamma Primi,71 Rue des Dames,Paris,75017, France,restaurant,,💸💸,Big Mamma,À faire,Pizza 🍕,,,,"[2.3205883, 48.883516]",2.3205883,48.883516
+La Bibimerie - Restaurant Franco-Coréen,1 rue lucien sampaix,Paris,75010,France,restaurant,,💸💸,Asiat,À faire,TheFork 🍴,,,,"[2.359683899999999, 48.8708919]",2.359683899999999,48.8708919
+Cô My Cantine,18 Rue de Menilmontant,Paris,75020, France,restaurant,,💸💸,Asiat,À faire,TheFork 🍴,,,,"[2.3846907, 48.8673782]",2.3846907,48.8673782
+LA BRASSERIE,50 Boulevard Ornano,Saint-Denis,93200, France,restaurant,,💸💸,Halal,Pâtes 🍝,Burger 🍔🍟,Restaurant,À faire,,"[2.3438754, 48.91470629999999]",2.3438754,48.91470629999999
+Privé de dessert,4 Rue Lallier,Paris,75009, France,restaurant,,💸💸,Restaurant,À faire,Zenchef,2️⃣,,,"[2.341184799999999, 48.88145839999999]",2.341184799999999,48.88145839999999
+All Five,242 Rue de Crimée,Paris,75019, France,restaurant,,💸,Pizza 🍕,À faire,,,,,"[2.3731079, 48.8945581]",2.3731079,48.8945581
+Il Posto,356 rue des pyrénées,Paris,75020,France,restaurant,,💸💸,Pizza 🍕,À faire,,,,,"[2.3863969, 48.8740012]",2.3863969,48.8740012
+Le Bobo,65 Avenue Michelet,Saint-Ouen,93400, France,restaurant,,💸,Burger 🍔🍟,🍴 inconnu,À faire,,,,"[2.344530299999999, 48.9078246]",2.344530299999999,48.9078246
+Pontochoux,18 Rue du Pont aux Choux,Paris,75003, France,restaurant,,💸💸,Asiat,À faire,,,,,"[2.365092799999999, 48.86131889999999]",2.365092799999999,48.86131889999999
+4 Saisons,90 Rue de Provence,Paris,75009, France,restaurant,,Asiat,🍴 inconnu,À faire,,,,,"[2.330202899999999, 48.8743097]",2.330202899999999,48.8743097
+Aki Boulanger,16 Rue Sainte-Anne,Paris,75001, France,restaurant,,💸💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[2.3355537, 48.866097]",2.3355537,48.866097
+L'as Tacos,4 Rue Louis Blanc,Nantes,44200, France,restaurant,,Tacos 🇫🇷,🍴 inconnu,À faire,,,,,"[-1.5552547, 47.207125]",-1.5552547,47.207125
+La capitale,22 Avenue Pasteur,Tremblay-en-France,93290, France,restaurant,,Grec 🥙,🍴 inconnu,À faire,,,,,"[2.5731581, 48.9420063]",2.5731581,48.9420063
+A La Flûte Enchantée,7 Avenue Mozart,Paris,75016, France,restaurant,,💸💸,Boulangerie 🥖,À faire,,,,,"[2.2739164, 48.85774989999999]",2.2739164,48.85774989999999
+Sanukiya,9 Rue d'Argenteuil,Paris,75001, France,restaurant,,Asiat,🍴 inconnu,À faire,,,,,"[2.333787, 48.864718]",2.333787,48.864718
+NINA'S,29 Rue Danielle Casanova,Paris,75001, France,cafe,,💸💸,Salon de thé 🍵,À faire,2️⃣,,,,"[2.3311776, 48.8680202]",2.3311776,48.8680202
+Piconi,3-1 Rue Julien Mira,Aulnay-sous-Bois,93600, France,restaurant,,💸,Snack,À faire,,,,,"[2.4924458, 48.9318471]",2.4924458,48.9318471
+Arrivederci pizzeria,47 Rue Gay-Lussac,Paris,75005, France,restaurant,,💸💸,À faire,Pizza 🍕,TheFork 🍴,,,,"[2.343495, 48.841716]",2.343495,48.841716
+Jimmy 2 fois,15 Rue Letort Paris 75018,Paris,75018,France,restaurant,,Pizza 🍕,💸💸,Validé ✅,TheFork 🍴,,,,"[2.3429737, 48.8943618]",2.3429737,48.8943618
+Cinq Fois Plus,170 Rue Saint-Martin,Paris,75003, France,restaurant,Chinois,💸,À faire,Asiat,,,,,"[2.3521941, 48.8623127]",2.3521941,48.8623127
+Rachel,Rue du Marché au Charbon 100,Bruxelles,1000, Belgique,restaurant,,🍴 inconnu,Burger 🍔🍟,À faire,,,,,"[4.3475416, 50.84531929999999]",4.3475416,50.84531929999999
+La Place Verte,105 Rue Oberkampf Paris France,Paris,75011,France,restaurant,,Café,💸💸,À faire,,,,,"[2.3776617, 48.8658772]",2.3776617,48.8658772
+Chez Justine,96 Rue Oberkampf,Paris,75011, France,restaurant,,💸💸,Trinity Group,À faire,Pizza 🍕,,,,"[2.377854999999999, 48.8656838]",2.377854999999999,48.8656838
+LES TRIPLETTES,102 Boulevard de Belleville,Paris,75020, France,restaurant,,💸💸,Trinity Group,À faire,Burger 🍔🍟,,,,"[2.3789947, 48.87055849999999]",2.3789947,48.87055849999999
+Tripletta Belleville,88 Bd de Belleville,Paris,75020, France,restaurant,,💸💸,Trinity Group,Pizza 🍕,À faire,,,,"[2.3794311, 48.87026909999999]",2.3794311,48.87026909999999
+John Viande,7b Rue de Paradis,Paris,75010, France,restaurant,,Burger 🍔🍟,Validé ✅,💸💸,,,,,"[2.3543152, 48.8745346]",2.3543152,48.8745346
+Pizzeria Tripletta Saint Michel,30 Place Meynard,Bordeaux,33800, France,restaurant,,Trinity Group,À faire,,,,,,"[-0.566713, 44.83471919999999]",-0.566713,44.83471919999999
+Le Cèdre,6 Rue Mouffetard,Paris,75005, France,restaurant,,Libanais 🇱🇧,🍴 inconnu,À faire,,,,,"[2.3491149, 48.84473329999999]",2.3491149,48.84473329999999
+Ricci Eiffel,73 Avenue Bosquet 75007 Paris France,Paris,75007,France,restaurant,,Restaurant,💸💸,À faire,,,,,"[2.30538, 48.8556178]",2.30538,48.8556178
+Tomo,11 Rue Chabanais,Paris,75002, France,cafe,Japonais,Pâtisseries,Asiat,À faire,💸💸,Salon de thé 🍵,,,"[2.3368502, 48.8676336]",2.3368502,48.8676336
+Bulliz,14 Rue d'Hauteville,Paris,75010, France,restaurant,,🍴 inconnu,Pâtisseries,À faire,,,,,"[2.3499713, 48.87154949999999]",2.3499713,48.87154949999999
+MARDI CREPE CLUB,137 Rue Montmartre,Paris,75002, France,shopping,,💸,Crêperie,Validé ✅,,,,,"[2.342609, 48.869885]",2.342609,48.869885
+Louie Louie,78 Rue de Charonne,Paris,75011,France,restaurant,,💸💸,Pizza 🍕,Validé ✅,,,,,"[2.3803633, 48.8535006]",2.3803633,48.8535006
+L'équilibre,29 Boulevard Malesherbes,Paris,75008, France,restaurant,,Restaurant,💸💸,À faire,,,,,"[2.3210219, 48.8726502]",2.3210219,48.8726502
+Crêperie Gigi,4 Rue de la Corderie,Paris,75003, France,restaurant,,À faire,💸💸,Crêperie,,,,,"[2.3633335, 48.8648003]",2.3633335,48.8648003
+Rivoluzione,24 Rue des Taillandiers,Paris,75011, France,restaurant,,🍴 inconnu,Pizza 🍕,À faire,,,,,"[2.374781, 48.8554168]",2.374781,48.8554168
+Umami Matcha Cafe,22 Rue Béranger Paris France,Paris,75003,France,restaurant,,Café,💸💸,Asiat,À faire,,,,"[2.3636103, 48.8665548]",2.3636103,48.8665548
+Gallika Madeleine - Restaurant grec,7 Rue Godot de Mauroy,Paris,75009,France,restaurant,,💸💸,Grec 🇬🇷,À faire,,,,,"[2.326708500000001, 48.8706598]",2.326708500000001,48.8706598
+L'Alsacien Châtelet,6 rue saint bon,Paris,75004,France,restaurant,,Restaurant,💸,À faire,TheFork 🍴,,,,"[2.3505942, 48.8582883]",2.3505942,48.8582883
+Pasta Linea,9 Rue de Turenne,Paris,75004, France,restaurant,,🍴 inconnu,Pâtes 🍝,À faire,,,,,"[2.3633801, 48.85533150000001]",2.3633801,48.85533150000001
+Da Vito,5 Rue Sedaine,Paris,75004,France,restaurant,,Pizza 🍕,À faire,,,,,,"[2.3712284, 48.8556617]",2.3712284,48.8556617
+We are Juice,34 Rue des Jeuneurs,Paris,75002, France,restaurant,,💸💸,Sandwich 🥪,À faire,,,,,"[2.3445686, 48.86967]",2.3445686,48.86967
+Clasico Argentino Marais,56 Rue de Saintonge,Paris,75003, France,restaurant,,💸💸,Hispanique,,,,,,"[2.364109, 48.863031]",2.364109,48.863031
+Sugarplum Cake Shop,68 Rue du Cardinal Lemoine Paris France,Paris,75005,France,supermarket,,Café,🍴 inconnu,À faire,,,,,"[2.3498565, 48.84532069999999]",2.3498565,48.84532069999999
+Croccante,138 Rue de Vaugirard,Paris,75015, France,restaurant,,Restaurant,🍴 inconnu,Epicierie,Italien 🇮🇹,À faire,,,"[2.3186119, 48.84482089999999]",2.3186119,48.84482089999999
+CREPOLOG,21 Rue Neuve Saint-Pierre,Paris,75004, France,shopping,,💸💸,Crêperie,Validé ✅,,,,,"[2.3624495, 48.8540143]",2.3624495,48.8540143
+Yingdeaw homemade,Siam Square Soi 5 Pathumwan Bangkok,ปทุมวัน,แขวง, Thaïlande,restaurant,,Pâtisseries,À faire,,,,,,"[100.5342633, 13.7444513]",100.5342633,13.7444513
+Murray's Bagels,500 Avenue of the Americas,New-York,10011,USA,restaurant,,Sandwich 🥪,💸💸,À faire,,,,,"[-73.9972943, 40.7363873]",-73.9972943,40.7363873
+Bio Sphère Café,47 Rue de Laborde,Paris,75008, France,shopping,,Café,Bio/Vegan,💸💸,À faire,,,,"[2.3178037, 48.8754492]",2.3178037,48.8754492
+Maison Aleph,20 Rue de la Verrerie,Paris,75004, France,restaurant,,Pâtisseries,💸💸,À faire,,,,,"[2.3547866, 48.8573944]",2.3547866,48.8573944
+Magnolia Bakery,1240 6th Ave New York,New-York,10020,USA,supermarket,,Pâtisseries,💸💸,À faire,,,,,"[-73.98055760000001, 40.75926889999999]",-73.98055760000001,40.75926889999999
+Maison Dandoy - Galeries,BeenhouwersStraat Brussels Belgium,Bruxelles,1000,Belgique,supermarket,,Pâtisseries,💸💸,À faire,,,,,"[4.351577999999999, 50.847419]",4.351577999999999,50.847419
+Délices Magic Beau Gosse,25 Boulevard des Alliés,Caen,14000, France,restaurant,,💸,Grec 🥙,Halal,Validé ✅,,,,"[-0.3593939000000001, 49.1843961]",-0.3593939000000001,49.1843961
+Shake Shack,Bloomsbury Plaza,London,WC1A 1ES,United Kingdom,restaurant,,Burger 🍔🍟,Validé ✅,,,,,,"[-0.122506, 51.511818]",-0.122506,51.511818
+Mark Toney & Co Ltd,53 Grainger St,Newcastle upon Tyne,NE1 5JE,United Kingdom,cafe,,Restaurant,À faire,,,,,,"[-1.615651199999999, 54.9709239]",-1.615651199999999,54.9709239
+Heart Attack Grill,450 Fremont St Las Vegas,Las Vegas,89101,USA,fastfood,,Burger 🍔🍟,Florian On Air,À faire,,,,,"[-115.1407514, 36.169458]",-115.1407514,36.169458
+R&G Lounge,631 Kearny St,San Francisco,94108,USA,restaurant,,Restaurant,Florian On Air,Poisson 🐟,À faire,,,,"[-122.4049463, 37.7941442]",-122.4049463,37.7941442
+Ike'Spress Sandwiches,66 Powell St San Francisco,San Francisco,94102,USA,fastfood,,Restaurant,Florian On Air,À faire,,,,,"[-122.419749, 37.78518399999999]",-122.419749,37.78518399999999
+Take Otac,89 Rue d'Avron,Paris,75020, France,restaurant,,Halal,Florian On Air,💸,Hispanique,À faire,TheFork 🍴,,"[2.405291, 48.8526426]",2.405291,48.8526426
+Naan Factory's,78 Avenue Anatole France 93600 Aulnay-sous-Bois France,Aulnay-sous-Bois,93600,France,fastfood,,Florian On Air,Snack,🍴 inconnu,,,,,"[2.4947306, 48.93717609999999]",2.4947306,48.93717609999999
+Sweetea's,61 Rue des Gravilliers,Paris,75003, France,restaurant,,Restaurant,Florian On Air,💸💸,Réservation,À faire,,,"[2.354653299999999, 48.86438880000001]",2.354653299999999,48.86438880000001
+Eat Salad,19 Boulevard Montmartre,Paris,75002, France,restaurant,,Restaurant,Florian On Air,💸,À faire,,,,"[2.3409408, 48.8715994]",2.3409408,48.8715994
+C La Que C Bon,10 Passage de l'Image Saint-Martin 94000 Créteil France,Créteil,94000,France,restaurant,,Restaurant,Florian On Air,🍴 inconnu,À faire,,,,"[2.46273, 48.792284]",2.46273,48.792284
+La Banquette,2 Rue de la Prévoyance,Vincennes,94300, France,shopping,,Florian On Air,💸💸,Crêperie,À faire,,,,"[2.420434, 48.8467251]",2.420434,48.8467251
+Creperie LA GALANTE,16 Rue Arthur Fontaine,Drancy,93700, France,restaurant,,Crêperie,Florian On Air,À faire,,,,,"[2.4558812, 48.9198619]",2.4558812,48.9198619
+21 Coree,40 Rue Carnot 92100 Boulogne-Billancourt France,Boulogne-Billancourt,92100,France,restaurant,Coréen,Florian On Air,Asiat,💸💸,À faire,,,,"[2.2415674, 48.8344519]",2.2415674,48.8344519
+La Goutte d'Or Pâtisserie,183 Rue Marcadet,Paris,75018, France,restaurant,,Florian On Air,Pâtisseries,Validé ✅,,,,,"[2.3354526, 48.891555]",2.3354526,48.891555
+Domicile Pizza,10 Rue Adolphe Mille 75019 Paris France,Paris,75019,France,restaurant,,Florian On Air,💸,Fait ✔️,Halal,,,,"[2.3887657, 48.88893309999999]",2.3887657,48.88893309999999
+Roberta,5 bis rue la Vieuville Abbesses Paris 75018,Paris,75018,France,restaurant,,Florian On Air,💸💸,Pizza 🍕,À faire,TheFork 🍴,,,"[2.339037, 48.8846968]",2.339037,48.8846968
+PHARE WEST CRÊPERIE,117 Rue Louis Rouquier,Levallois-Perret,92300, France,restaurant,,Florian On Air,Crêperie,🍴 inconnu,À faire,,,,"[2.2923589, 48.8930053]",2.2923589,48.8930053
+Home'Lette,8 Avenue de la Résistance France,Le Raincy,93340,France,restaurant,,Florian On Air,🍴 inconnu,Sandwich 🥪,Gâteau 🎂,À faire,,,"[2.5124349, 48.89118680000001]",2.5124349,48.89118680000001
+Maison Lebon,13 Rue Lebon,Paris,75017, France,restaurant,Produits suédois,Florian On Air,Suédois 🇸🇪,À faire,,,,,"[2.2918399, 48.88104930000001]",2.2918399,48.88104930000001
+Le Broc du Vieux Lille,32 Place Louise de Bettignies,Lille,59000, France,restaurant,,Florian On Air,Restaurant,💸💸,Zenchef,À faire,,,"[3.065431499999999, 50.6412716]",3.065431499999999,50.6412716
+Soho Urban Food,14 Rue Léon Trulin Lille France,Lille,59000,France,restaurant,,Florian On Air,À faire,,,,,,"[3.066125899999999, 50.637918]",3.066125899999999,50.637918
+Les Tontons Afro,42 Rue de La Monnaie,Lille,59000,France,restaurant,,Florian On Air,Africain,Burger 🍔🍟,💸💸,Validé ✅,Zenchef,,"[3.0625512, 50.64132730000001]",3.0625512,50.64132730000001
+Burger Station,Rue Pierre Mauroy 59800 Lille France,Lille,59800,France,shopping,,Florian On Air,Burger 🍔🍟,À faire,,,,,"[3.065076899999999, 50.63669939999999]",3.065076899999999,50.63669939999999
+Brasserie La Chicorée,15 Place Rihour,Lille,59000, France,restaurant,,Florian On Air,Bar,À faire,,,,,"[3.0632228, 50.6359987]",3.0632228,50.6359987
+Twister French Food.,182 Rue Pierre Legrand 59800 Lille France,Lille,59800,France,fastfood,,Florian On Air,Snack,À faire,,,,,"[3.0914095, 50.6326164]",3.0914095,50.6326164
+Mitico,48 Grand Rue,Strasbourg,67000, France,restaurant,,Florian On Air,Italien 🇮🇹,💸,À faire,,,,"[7.7410471, 48.5822673]",7.7410471,48.5822673
+Cam's Cakes,28 Place des Carmes Rouen France,Rouen,76000,France,supermarket,,Florian On Air,Pâtisseries,À faire,,,,,"[1.0965196, 49.4421052]",1.0965196,49.4421052
+Quick Grill,8 Rue Percière,Rouen,76000, France,restaurant,,Florian On Air,💸,Snack,À faire,,,,"[1.0918164, 49.4429291]",1.0918164,49.4429291
+Ma Boulangerie,6 Place du Vieux Marché,Rouen,76000, France,restaurant,,Florian On Air,Boulangerie 🥖,🍴 inconnu,À faire,,,,"[1.089296, 49.4430833]",1.089296,49.4430833
+Nachos mexican grill - Vieux marché,Rue du Gros Horloge,Rouen,76000, France,restaurant,,Florian On Air,Hispanique,À faire,,,,,"[1.0891767, 49.4425016]",1.0891767,49.4425016
+L'Oriflamme,2 Place de la Visitation,Angers,49100, France,restaurant,,Florian On Air,💸,Viande,À faire,,,,"[-0.5568308, 47.4669158]",-0.5568308,47.4669158
+La Rose Des Sables,1 Rue du Bouffay,Nantes,44000, France,restaurant,,Florian On Air,Grec 🥙,À faire,,,,,"[-1.5541426, 47.21495119999999]",-1.5541426,47.21495119999999
+Boulangerie Chez Pascal,46 Route du Cap Ferret,Lège-Cap-Ferret,33950, France,shopping,,Florian On Air,Boulangerie 🥖,À faire,,,,,"[-1.212622, 44.7161066]",-1.212622,44.7161066
+Le Raffiné,34 Rue du Cardinal de Cabrières,Montpellier,34000, France,restaurant,,Florian On Air,Grec 🥙,💸💸,À faire,,,,"[3.8744501, 43.6148677]",3.8744501,43.6148677
+Che Boludo Empanadas Argentinas,10 Rue Boussairolles,Montpellier,34000, France,restaurant,,Florian On Air,Hispanique,À faire,,,,,"[3.8810213, 43.607964]",3.8810213,43.607964
+Croquants Villaret,13 Rue de la Madeleine 30000 Nîmes France,Nîmes,30000,France,supermarket,,Florian On Air,À faire,,,,,,"[4.358178299999999, 43.83771480000001]",4.358178299999999,43.83771480000001
+Carré Gourmand,12 Rue de la Maison Carrée 30000 Nîmes France,Nîmes,30000,France,restaurant,,Florian On Air,Grec 🥙,💸,À faire,,,,"[4.355993, 43.837647]",4.355993,43.837647
+Ouest Express Vaise,41 Rue des Docks,Lyon,69009, France,restaurant,,Florian On Air,À faire,,,,,,"[4.8117638, 45.7871352]",4.8117638,45.7871352
+La Casa Del Burger,14 Allée des Cèdres,Villeurbanne,69100, France,restaurant,,Florian On Air,Snack,À faire,,,,,"[4.910694599999999, 45.756246]",4.910694599999999,45.756246
+Comedy Pizz,59 Rue Trarieux,Lyon,69003, France,restaurant,,Florian On Air,Snack,À faire,,,,,"[4.884883800000001, 45.7455313]",4.884883800000001,45.7455313
+A.F.C,14 Grande Rue de la Guillotière,Lyon,69007, France,restaurant,,Florian On Air,Africain,À faire,,,,,"[4.843468800000001, 45.75434000000001]",4.843468800000001,45.75434000000001
+Boulangerie Chez Jules Victor Hugo,39 Rue Victor Hugo,Lyon,69002, France,restaurant,,Florian On Air,Boulangerie 🥖,À faire,,,,,"[4.829612399999999, 45.7535961]",4.829612399999999,45.7535961
+A La Marquise,Maison du Chamarier,Lyon,69005,France,restaurant,,Florian On Air,🍴 inconnu,Pâtisseries,À faire,,,,"[4.8273072, 45.7615886]",4.8273072,45.7615886
+100 Montaditos,Calle San Fernando,Sevilla,41004,Spain,restaurant,,Florian On Air,Hispanique,À faire,,,,,"[-5.990328000000001, 37.3817889]",-5.990328000000001,37.3817889
+Chocolats Favoris,150 Rue Ste-Catherine O Montréal H2X Canada,Montréal,H2X,Canada,supermarket,,Florian On Air,Chocolaterie 🍫,💸💸,À faire,,,,"[-73.5650284, 45.5081942]",-73.5650284,45.5081942
+Brenda's French Soul Food,652 Polk St,San Francisco,94102,USA,restaurant,,Florian On Air,💸💸,Soul Food,À faire,,,,"[-122.4190358, 37.7829023]",-122.4190358,37.7829023
+El Fogon,Av Constituyentes,Playa del Carmen,77720,Mexico,restaurant,,Florian On Air,Hispanique,À faire,,,,,"[-87.0739284, 20.6327939]",-87.0739284,20.6327939
+Key Lime Pie Bakery,412 Greene Street,Key West,33040,USA,music,,Florian On Air,Pâtisseries,💸💸,À faire,,,,"[-81.80581409999999, 24.5585547]",-81.80581409999999,24.5585547
+Flanigan's Seafood Bar and Grill,2721 Bird Rd,Miami,33133,USA,restaurant,,Florian On Air,Poisson 🐟,Bar,À faire,,,,"[-80.2383613, 25.7358215]",-80.2383613,25.7358215
+Big Pink,157 Collins Ave Miami Beach,Miami,33139,USA,fastfood,,Florian On Air,Burger 🍔🍟,À faire,,,,,"[-80.1336549, 25.7708228]",-80.1336549,25.7708228
+Puerto Sagua,700 Collins Ave Miami Beach,Miami,33139,USA,restaurant,,Florian On Air,Hispanique,À faire,,,,,"[-80.13258619999999, 25.7770925]",-80.13258619999999,25.7770925
+Little Cupcake Bakeshop,30 Prince St,New-York,10012,USA,restaurant,,Florian On Air,Pâtisseries,À faire,,,,,"[-73.994852, 40.722932]",-73.994852,40.722932
+Flip'n Toss,82 Christopher St,New-York,10014,USA,restaurant,,Florian On Air,💸💸,Burger 🍔🍟,À faire,,,,"[-74.0036184, 40.73340510000001]",-74.0036184,40.73340510000001
+"Burger, Inc.",353 W 14th St,New-York,10014,USA,restaurant,,Florian On Air,Burger 🍔🍟,À faire,,,,,"[-74.00469580000001, 40.7408498]",-74.00469580000001,40.7408498
+Red Lobster,5 Times Square,New-York,10036,USA,restaurant,,Florian On Air,Poisson 🐟,À faire,,,,,"[-73.98752999999999, 40.755587]",-73.98752999999999,40.755587
+Chick'nCone,353 W 14th St,New-York,10014,USA,restaurant,,Florian On Air,Poulet 🐔,À faire,,,,,"[-73.982463, 40.76756109999999]",-73.982463,40.76756109999999
+Jacob Soul Food,373 Malcolm X Blvd New York,New-York,10027,USA,restaurant,,Florian On Air,Soul Food,À faire,,,,,"[-73.94394980000001, 40.8102838]",-73.94394980000001,40.8102838
+Tutti Sensi,14 Rue Norvins 75018 Paris France,Paris,75018,France,supermarket,,💸,À faire,Glaces 🍨🍦,,,,,"[2.3404254, 48.88690829999999]",2.3404254,48.88690829999999
+Snack le Magenta,48 Rue du Chevalier de la Barre 75018 Paris France,Paris,75018,France,supermarket,,Pâtisseries,💸,À faire,,,,,"[2.341716, 48.8871422]",2.341716,48.8871422
+Le vrai Paris,33 Rue des Abbesses,Paris,75018, France,cafe,,Restaurant,💸💸,À faire,TheFork 🍴,2️⃣,,,"[2.3370896, 48.8849463]",2.3370896,48.8849463
+Le Grenier à Pain Abbesses Bodian,38 rue Des Abesses Paris 75018,Paris,75018,France,restaurant,,Boulangerie 🥖,💸,À faire,,,,,"[2.3367337, 48.88531829999999]",2.3367337,48.88531829999999
+Soon Grill,78 Rue des Tournelles,Paris,75003, France,restaurant,,💸💸,Asiat,Halal,À faire,TheFork 🍴,,,"[2.367436, 48.858096]",2.367436,48.858096
+Burger Green,120 Rue du Général Leclerc,Rouen,76000, France,restaurant,,Burger 🍔🍟,Halal,À faire,TheFork 🍴,,,,"[1.0897563, 49.4402384]",1.0897563,49.4402384
+Happy Days,14552 Ventura Blvd,Los Angeles,91403,USA,cafe,,Restaurant,À faire,,,,,,"[-118.4505086, 34.15100919999999]",-118.4505086,34.15100919999999
+L'Antica Pizzeria da Michele,Via Cesare Sersale,Napoli,80139,Italy,restaurant,,Pizza 🍕,À faire,,,,,,"[14.2633002, 40.8497563]",14.2633002,40.8497563
+Owit,91 Rue Didot,Paris,75014, France,restaurant,,Grec 🥙,🍴 inconnu,À faire,,,,,"[2.3168777, 48.8287701]",2.3168777,48.8287701
+L'escale De Ménilmontant,137 Boulevard de Ménilmontant,Paris,75011, France,generic,,Grec 🥙,À faire,,,,,,"[2.3829901, 48.8665715]",2.3829901,48.8665715
+Manhattan Hot Dog,7 Rue de la Roquette 75011 Paris France,Paris,75011,France,fastfood,,Hot-Dog 🌭,🍴 inconnu,À faire,,,,,"[2.3708202, 48.8539931]",2.3708202,48.8539931
+The Street Pig BBQ,Lambeth,London,SE1,United Kingdom,restaurant,,Viande,À faire,,,,,,"[-0.1160875, 51.5056139]",-0.1160875,51.5056139
+L'Été en Pente Douce,8 Rue Paul Albert,Paris,75018, France,restaurant,,Restaurant,À faire,,,,,,"[2.3451788, 48.8863549]",2.3451788,48.8863549
+Cantine California,46 rue de turbigo,Paris,75003, France,restaurant,Commandes par traiteur disponible ,💸💸,Restaurant,À faire,,,,,"[2.204268201870662, 48.86692990142856]",2.204268201870662,48.86692990142856
+Boneshaker Donuts,86 Rue d'Aboukir,Paris,75002, France,restaurant,,Pâtisseries,Validé ✅,,,,,,"[2.3477901, 48.86792680000001]",2.3477901,48.86792680000001
+Starvin' Joe,42 Rue de Charonne,Paris,75011, France,restaurant,,Burger 🍔🍟,À faire,,,,,,"[2.3768314, 48.8531909]",2.3768314,48.8531909
+Jun,1 Rue de Condé,Paris,75006, France,restaurant,Japonais,Asiat,💸💸,À faire,TheFork 🍴,2️⃣,,,"[2.3385005, 48.85159230000001]",2.3385005,48.85159230000001
+Casa San Pablo,5 Rue de Sévigné Paris France,Paris,75004,France,restaurant,,Restaurant,💸,À faire,,,,,"[2.3618368, 48.8554346]",2.3618368,48.8554346
+Blueberry Maki Bar,6 Rue du Sabot,Paris,75006, France,restaurant,Japonais ,💸💸,Asiat,Réservation,À faire,2️⃣,,,"[2.3314671, 48.85277059999999]",2.3314671,48.85277059999999
+Pleyel Burger,Carrefour Pleyel,Saint-Denis,93200, France,restaurant,,Burger 🍔🍟,🍴 inconnu,À faire,,,,,"[2.344087, 48.9204725]",2.344087,48.9204725
+31 Street - Burgers,31 Rue Gauthey,Paris,75017, France,restaurant,,Burger 🍔🍟,🍴 inconnu,À faire,TheFork 🍴,,,,"[2.3209683, 48.8924295]",2.3209683,48.8924295
+La grotte de Chypre,85 rue mouffetard Paris,Paris,75005, France,restaurant,,Grec 🥙,À faire,,,,,,"[2.3498606, 48.84181390000001]",2.3498606,48.84181390000001
+Caffe Concerto Piccadilly,29-31 Piccadilly,London,W1J 0LF,United Kingdom,restaurant,,Pâtisseries,À faire,,,,,,"[-0.136781, 51.50923299999999]",-0.136781,51.50923299999999
+Peggy Porschen - Belgravia,116 Ebury Street,London,SW1W 9QQ,United Kingdom,shopping,,Salon de thé 🍵,À faire,,,,,,"[-0.1505416, 51.4933026]",-0.1505416,51.4933026
+Don Luigi,49 Brixton Station Rd,London,SW9 8PQ,United Kingdom,restaurant,,Pizza 🍕,À faire,,,,,,"[-0.1123463, 51.4635098]",-0.1123463,51.4635098
+Other Side fried,Pop brixton,London,SW9 8PQ,United Kingdom,restaurant,,Burger 🍔🍟,Validé ✅,,,,,,"[-0.1123267, 51.4635255]",-0.1123267,51.4635255
+Le Medaillon,85 Avenue de la République 94800 Villejuif France,Villejuif,94800,France,restaurant,,Restaurant,🍴 inconnu,À faire,,,,,"[2.3590674, 48.78834270000001]",2.3590674,48.78834270000001
+Snack Firat,325 Avenue Jean Jaurès 95100 Argenteuil France,Argenteuil,95100,France,supermarket,,Grec 🥙,À faire,,,,,,"[2.2106114, 48.94141570000001]",2.2106114,48.94141570000001
+La Mangerie,7 Rue de Jarente,Paris,75004, France,restaurant,,Restaurant,🍴 inconnu,À faire,,,,,"[2.3628122, 48.8557001]",2.3628122,48.8557001
+La Crème de Paris,4 Rue du Faubourg Montmartre,Paris,75009, France,shopping,,Pâtisseries,💸💸,À faire,,,,,"[2.3432751, 48.8717113]",2.3432751,48.8717113
+Sette Pizza - Paris,38 Rue du Faubourg Saint-Denis,Paris,75010, France,restaurant,,Pizza 🍕,À faire,💸💸,TheFork 🍴,,,,"[2.3535652, 48.87124]",2.3535652,48.87124
+Ozio,29 bis Rue Saint-Didier,Paris,75116, France,restaurant,,Pizza 🍕,🍴 inconnu,À faire,,,,,"[2.2855465, 48.8663909]",2.2855465,48.8663909
+Karl,6 Place du Parlement,Bordeaux,33000, France,restaurant,,Restaurant,💸,À faire,,,,,"[-0.5719630999999998, 44.8404312]",-0.5719630999999998,44.8404312
+Applebee's,205 W 50th St,New-York,10019,USA,restaurant,,Restaurant,À faire,,,,,,"[-73.98357779999999, 40.7613731]",-73.98357779999999,40.7613731
+Di Più,85 Quai des États-Unis,Nice,06300, France,restaurant,,Italien 🇮🇹,💸💸,À faire,,,,,"[7.273015999999999, 43.695259]",7.273015999999999,43.695259
+Lombardo's,Nieuwe Spiegelstraat 50,Amsterdam,1017, Pays-Bas,restaurant,,Burger 🍔🍟,À faire,,,,,,"[4.8886947, 52.3635435]",4.8886947,52.3635435
+Des gâteaux et du pain,63 Boulevard Pasteur,Paris,75015, France,restaurant,,Pâtisseries,Boulangerie 🥖,💸💸,Validé ✅,,,,"[2.314665, 48.8412273]",2.314665,48.8412273
+faggio,,Paris,75009,France,restaurant,,Pizza 🍕,🍴 inconnu,À faire,,,,,"[2.346708, 48.8816416]",2.346708,48.8816416
+Carl's Jr,728 Avenue de Draguignan,La,83130, France,restaurant,,🍴 inconnu,Burger 🍔🍟,À faire,,,,,"[6.0338041, 43.1396267]",6.0338041,43.1396267
+L'atelier sur la braise - Paris,23 Rue des Vignoles,Paris,75020, France,restaurant,,Restaurant,💸💸,Viande,À faire,,,,"[2.399065199999999, 48.8536896]",2.399065199999999,48.8536896
+Fat's Chicken and Waffles,2726 E Cherry St,Seattle,98122,USA,restaurant,,Soul Food,À faire,,,,,,"[-122.2964518, 47.6081435]",-122.2964518,47.6081435
+Flora Danica,142 Avenue des Champs-Elysées,Paris,75008,France,restaurant,,Restaurant,💸💸,Poisson 🐟,À faire,,,,"[2.2987621, 48.8729957]",2.2987621,48.8729957
+Action,30 Boulevard Paul Vaillant Couturier,Ivry-sur-Seine,94200, France,shopping,,💸,Validé ✅,À bats la hess,,,,,"[2.3964555, 48.8184641]",2.3964555,48.8184641
+La Maison du Dim Sum,4 Rue des Fossés Saint-Jacques,Paris,75005, France,restaurant,Chinois ,💸💸,Asiat,À faire,,,,,"[2.343415, 48.84594]",2.343415,48.84594
+Baba Zulu,23 Rue Beaurepaire Paris 75010,Paris,75010,France,restaurant,,Soul Food,💸💸,,,,,,"[2.3639914, 48.8711079]",2.3639914,48.8711079
+Montale Parfums,68 Rue Pierre Charron,Paris,75008, France,shopping,,💸💸💸,Parfumerie,À faire,,,,,"[2.304339999999999, 48.869905]",2.304339999999999,48.869905
+Maison Honoré,332 Route d'Enghien,Argenteuil,95100, France,restaurant,,Pâtisseries,🍴 inconnu,À faire,,,,,"[2.2868909, 48.9570944]",2.2868909,48.9570944
+Pizza Di Loretta - Rodier,62 Rue Rodier Paris 75009,Paris,75009,France,restaurant,,Pizza 🍕,💸💸,À faire,,,,,"[2.3440565, 48.88061159999999]",2.3440565,48.88061159999999
+Babalou,4 Rue Lamarck,Paris,75018, France,restaurant,,Pizza 🍕,💸💸,À faire,TheFork 🍴,,,,"[2.344329, 48.886482]",2.344329,48.886482
+Le Papacionu Paris,7 Rue Cadet,Paris,75009, France,restaurant,,Pizza 🍕,💸💸,Zenchef,,,,,"[2.3428264, 48.8748385]",2.3428264,48.8748385
+Kong,1 Rue du Pont Neuf,Paris,75001, France,restaurant,,Restaurant,Réservation,💸💸💸,À faire,,,,"[2.343116, 48.859286]",2.343116,48.859286
+Caucase House,8 Avenue Georges Durand,Le Mans,72100, France,generic,,Restaurant,🍴 inconnu,À faire,,,,,"[0.2108025997877121, 47.98236846923828]",0.2108025997877121,47.98236846923828
+Holy Moly Gourmet Burger,2 Quai Vendeuvre,Caen,14000, France,restaurant,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[-0.3578453999999999, 49.18385529999999]",-0.3578453999999999,49.18385529999999
+Safran,11 Rue Saint-Sauveur,Caen,14000, France,restaurant,,Grec 🥙,🍴 inconnu,À faire,,,,,"[-0.3663394, 49.1836697]",-0.3663394,49.1836697
+Le P'tit Chou Normand,65 Rue Saint-Pierre,Caen,14000, France,restaurant,,Boulangerie 🥖,Validé ✅,💸,,,,,"[-0.3634226, 49.1832557]",-0.3634226,49.1832557
+La Buona Tavola,47 Rue Saint-Sauveur,Caen,14000, France,restaurant,,Restaurant,🍴 inconnu,À faire,,,,,"[-0.367868, 49.18306]",-0.367868,49.18306
+Pimp My Burger,10 Rue Anatole France,Puteaux,92800, France,restaurant,,Burger 🍔🍟,Halal,💸💸,À faire,,,,"[2.2396996, 48.8836312]",2.2396996,48.8836312
+LE PACHA,24 Avenue de Fontainebleau,Le Kremlin Bicêtre,94270, France,restaurant,,Grec 🥙,Halal,Validé ✅,💸,,,,"[2.3605505, 48.8145951]",2.3605505,48.8145951
+Snack Taco's,65 Avenue Jean Jaurès 75019 Paris France,Paris,75019,France,restaurant,,Burger 🍔🍟,Halal,🍴 inconnu,À faire,,,,"[2.3731426, 48.8837775]",2.3731426,48.8837775
+dreamfood,41 Rue Mouraud,Paris,75020, France,restaurant,,Snack,🍴 inconnu,À faire,,,,,"[2.4080383, 48.8570099]",2.4080383,48.8570099
+Edwart Chocolatier,17 Rue Vieille du Temple,Paris,75004, France,shopping,,Chocolaterie 🍫,À faire,,,,,,"[2.356910699999999, 48.8569028]",2.356910699999999,48.8569028
+Salatim,15 Rue des Jeuneurs,Paris,75002, France,restaurant,,Restaurant,💸💸,À faire,Zenchef,,,,"[2.3459585, 48.8690915]",2.3459585,48.8690915
+Arby's,611 8th Ave,New-York,10018,USA,restaurant,,Restaurant,💸💸,À faire,,,,,"[-73.99124090000001, 40.7558174]",-73.99124090000001,40.7558174
+La tête dans les nuages,5 Boulevard des Italiens,Paris,75002, France,generic,,Arcade 👾,💸💸,2️⃣,,,,,"[2.3391802, 48.87155629999999]",2.3391802,48.87155629999999
+Planete Regal,65 Route du Pavé Blanc,Clamart,92140, France,restaurant,,Grec 🥙,🍴 inconnu,À faire,,,,,"[2.2377628, 48.7843414]",2.2377628,48.7843414
+Twenty Time,93 Avenue Aristide Briand France,Arcueil,94110,France,fastfood,Pas ouf askip,Grec 🥙,💸,À faire,,,,,"[2.3249923, 48.80398590000001]",2.3249923,48.80398590000001
+V.N.P.,38 Rue Jean-Pierre Timbaud,Paris,75011, France,restaurant,Les grecs coûtent entre 8 à 10€,Grec 🥙,💸,À faire,,,,,"[2.3716764, 48.8661255]",2.3716764,48.8661255
+Aux Merveilleux de Fred,1 Rue du Midi 94300 Vincennes France,Vincennes,94300,France,supermarket,Pas mal mais je trouve les brioches meilleures que les autres trucs,💸💸,Pâtisseries,Validé ✅,,,,,"[2.4387618, 48.84705]",2.4387618,48.84705
+M.S factory,112 Route de la Reine,Boulogne-Billancourt,92100, France,restaurant,,Halal,💸💸,À faire,,,,,"[2.2358985, 48.84022849999999]",2.2358985,48.84022849999999
+Tricotin,15 Av. de Choisy,Paris,75013, France,restaurant,,Asiat,Validé ✅,,,,,,"[2.363603, 48.82090900000001]",2.363603,48.82090900000001
+Librairie EMET,250 bd voltaire,Paris,75011,France,library,,Librairie,À faire,,,,,,"[2.3912528, 48.8510032]",2.3912528,48.8510032
+Eric Kayser,18 Rue du Bac,Paris,75007, France,restaurant,,💸,À faire,,,,,,"[2.3282801, 48.8583158]",2.3282801,48.8583158
+PNY OBERKAMPF,96 Rue Oberkampf,Paris,75011, France,restaurant,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[2.377769, 48.8656399]",2.377769,48.8656399
+Pizzeria Les Jardins d'Italie,61-63 Rue Ledru Rollin,Châteauroux,36000, France,restaurant,,Pizza 🍕,🍴 inconnu,À faire,,,,,"[1.6949647, 46.8104355]",1.6949647,46.8104355
+Maker,32 Rue des Jeuneurs,Paris,75002, France,restaurant,,💸💸,Pizza 🍕,Validé ✅,TheFork 🍴,,,,"[2.3446396, 48.8696638]",2.3446396,48.8696638
+O'Zaman Spécialités Turques,20 Avenue de Fontainebleau,Le Kremlin Bicêtre,94270, France,restaurant,,Grec 🥙,💸,Validé ✅,,,,,"[2.360503500000001, 48.8148189]",2.360503500000001,48.8148189
+Mangez Et Cassez-Vous!,64 Rue Alexandre Dumas 75011 Paris France,Paris,75011,France,fastfood,,Burger 🍔🍟,💸,À faire,,,,,"[2.395047, 48.8540185]",2.395047,48.8540185
+Au Paradis Tropical,6 Rue Custine,Paris,75018, France,restaurant,,Restaurant,Africain,💸💸,À faire,TheFork 🍴,,,"[2.3489395, 48.88782559999999]",2.3489395,48.88782559999999
+At Homes,6 Rue Gaston Philippe,Saint-Denis,93200, France,restaurant,,Poulet 🐔,Burger 🍔🍟,🍴 inconnu,À faire,,,,"[2.35087, 48.93898099999999]",2.35087,48.93898099999999
+Atelier P1,157 Rue Marcadet,Paris,75018, France,restaurant,Ateliers de pains chaque mercredi ,Boulangerie 🥖,💸,,,,,,"[2.3379019, 48.89125689999999]",2.3379019,48.89125689999999
+L'Atmosphère Aulnay sous Bois,Rue Ambroise Paré 93600 Aulnay-sous-Bois France,Aulnay-sous-Bois,93600,France,restaurant,,Grec 🥙,À faire,,,,,,"[2.4906041, 48.9480655]",2.4906041,48.9480655
+Taiba,80 Avenue de Stalingrad 93200 Saint-Denis France,Saint-Denis,93200,France,restaurant,,Grec 🥙,🍴 inconnu,À faire,,,,,"[2.370975, 48.946651]",2.370975,48.946651
+Snack Churasqueira de Drancy,75 Avenue Henri Barbusse 93700 Drancy France,Drancy,93700,France,supermarket,,Florian On Air,Snack,À faire,,,,,"[2.4466786, 48.91770229999999]",2.4466786,48.91770229999999
+La Marinade,110 Rue du 4 Août 1789,Villeurbanne,69100, France,restaurant,,Tacos 🇫🇷,À faire,,,,,,"[4.887171899999999, 45.7646113]",4.887171899999999,45.7646113
+Chez Ann Paradis,9 Rue de Paradis Paris France,Paris,75010,France,restaurant,Chinois,Asiat,À faire,,,,,,"[2.3542677, 48.8745544]",2.3542677,48.8745544
+Spring Bowl,10 Rue Bleue,Paris,75009, France,restaurant,Vietnamien,Asiat,💸💸,À faire,TheFork 🍴,,,,"[2.3468966, 48.8759192]",2.3468966,48.8759192
+La Boulangerie Moderne,16 Rue des Fossés Saint-Jacques,Paris,75005, France,restaurant,,Boulangerie 🥖,À faire,,,,,,"[2.3441853, 48.84549699999999]",2.3441853,48.84549699999999
+Gino Sorbillo Antica Pizzeria,Via dei Tribunali,Napoli,80134,Italy,restaurant,,Pizza 🍕,À faire,,,,,,"[14.2553176, 40.85041289999999]",14.2553176,40.85041289999999
+Chez Antoine,3 Avenue de la République 94300 Vincennes France,Vincennes,94300,France,restaurant,,Pizza 🍕,Validé ✅,💸,,,,,"[2.4288969, 48.8464232]",2.4288969,48.8464232
+786 Choisy-le-Roi,4 Boulevard de Stalingrad 94600 Choisy-le-Roi France,Choisy-le-Roi,94600,France,fastfood,,Grec 🥙,À faire,,,,,,"[2.40396, 48.76723]",2.40396,48.76723
+Les Grands Buffets,11100 Narbonne France,Narbonne,11100,France,restaurant,,À faire,💸💸💸,Restaurant,2️⃣,,,,"[2.9941276, 43.17436379999999]",2.9941276,43.17436379999999
+Crousty,6 Avenue de Paris,Bonneuil-sur-Marne,94380, France,restaurant,,Validé ✅,Grec 🥙,Burger 🍔🍟,💸,,,,"[2.4817072, 48.7746985]",2.4817072,48.7746985
+Boulangerie Jean Noèl Julien,1 Rue de Provence,Paris,75009, France,restaurant,,Boulangerie 🥖,Validé ✅,,,,,,"[2.3420617, 48.8739922]",2.3420617,48.8739922
+GEMÜSE - Berliner Kebap,61 Rue Ramey,Paris,75018, France,restaurant,,Grec 🥙,À faire,,,,,,"[2.3452711, 48.89064510000001]",2.3452711,48.89064510000001
+Fricotin,85 bis avenue de wagram,Paris,75017, France,shopping,,Crêperie,💸💸,À faire,TheFork 🍴,,,,"[2.299895299999999, 48.8807404]",2.299895299999999,48.8807404
+Yummy & Guiltfree,3 rue du Temple 75004 Paris,Paris,75004,France,fastfood,,Pâtisseries,À faire,,,,,,"[2.35251, 48.85755]",2.35251,48.85755
+Burger Road,49 RUE ROBERT DUPONT,Asnières,92600,France,restaurant,,Burger 🍔🍟,Halal,💸,À faire,,,,"[2.28397, 48.9215]",2.28397,48.9215
+Burger Road,49 RUE ROBERT DUPONT,Asnières,92600,France,restaurant,,Burger 🍔🍟,Halal,💸,À faire,,,,"[2.2840147890807, 48.921508951022]",2.2840147890807,48.921508951022
+John Circus,103 Rue du Faubourg Saint-Denis,Paris,75010, France,bar,,Pizza 🍕,À faire,,,,,,"[2.3555395, 48.87492350000001]",2.3555395,48.87492350000001
+Africa Delice,75015 Paris France,Paris,75015,France,business,,🍴 inconnu,Maghreb/Moyen-Orient,À faire,,,,,"[2.2832047, 48.8463028]",2.2832047,48.8463028
+Maison Bayat,112 Boulevard de Magenta,Paris,75010, France,restaurant,,Pâtisseries,Boulangerie 🥖,💸,Validé ✅,,,,"[2.3544708, 48.8784048]",2.3544708,48.8784048
+Le VIP Paris - Yacht Hotel,7 Port de la Rapée,Paris,75012, France,lodging,,Hotel,À faire,,,,,,"[2.3723173, 48.8412406]",2.3723173,48.8412406
+Aï Hsu,16 Rue Saint-Sébastien,Paris,75011, France,restaurant,Japonais ,Asiat,💸💸,À faire,TheFork 🍴,,,,"[2.3689244, 48.86096999999999]",2.3689244,48.86096999999999
+Ba Mien,180 Avenue de Choisy Paris France,Paris,75013,France,restaurant,Vietnamien,Asiat,,,,,,,"[2.3572353, 48.83002949999999]",2.3572353,48.83002949999999
+La Mangue Verte,100 Avenue Ivry,Paris,75013, France,restaurant,,Asiat,💸💸,,,,,,"[2.3615384, 48.8255573]",2.3615384,48.8255573
+Hibao Resto,28 Rue de Malte,Paris,75011, France,restaurant,,Asiat,💸💸,À faire,2️⃣,,,,"[2.368104999999999, 48.86542499999999]",2.368104999999999,48.86542499999999
+Volver,34 Rue Keller,Paris,75011, France,restaurant,Argentin ,À faire,💸💸,Hispanique,,,,,"[2.375572399999999, 48.85527]",2.375572399999999,48.85527
+Chungking Express,5 Rue de la Tour d'Auvergne 75009 Paris France,Paris,75009,France,restaurant,Chinois ,Asiat,💸💸,À faire,,,,,"[2.3449, 48.8788]",2.3449,48.8788
+Tonkatsu Tombo,14 Rue de l'Arrivée Paris France,Paris,75015,France,restaurant,Japonais,Asiat,🍴 inconnu,À faire,,,,,"[2.321688, 48.843338]",2.321688,48.843338
+CHEZ HAKI,43 Rue des Gravilliers,Paris,75003, France,restaurant,,Asiat,💸💸,À faire,TheFork 🍴,,,,"[2.3554626, 48.8641522]",2.3554626,48.8641522
+BBQ Cadet,20 Rue Lamartine Paris France,Paris,75009,France,restaurant,Coréen ,Asiat,💸💸,À faire,TheFork 🍴,,,,"[2.34261, 48.87659]",2.34261,48.87659
+Bong Republique - Restaurant Coréen,6 Avenue de la République Paris France,Paris,75011,France,restaurant,,Asiat,💸💸,Réservation,À faire,,,,"[2.3663, 48.86668]",2.3663,48.86668
+Maison de la Culture Armenienne,17 Rue Bleue Paris France,Paris,75009,France,restaurant,,Europe de l'Est,À faire,,,,,,"[2.34612, 48.87585]",2.34612,48.87585
+Bacabon Izakaya,90 Rue de Charonne,Paris,75011, France,restaurant,Japonais,Asiat,💸💸,À faire,TheFork 🍴,,,,"[2.3817839, 48.8537196]",2.3817839,48.8537196
+Petit Bao,116 rue Saint-Denis,Paris,75002,France,restaurant,Chinois,Asiat,💸💸,À faire,,,,,"[2.350294, 48.8644]",2.350294,48.8644
+Junglii,78 Rue de la Jonquière,Paris,75017, France,restaurant,,Asiat,À faire,TheFork 🍴,,,,,"[2.3201962, 48.8944466]",2.3201962,48.8944466
+Rajpoot,31 Rue Charles de Gaulle 94140 Alfortville France,Alfortville,94140,France,restaurant,Indien,Asiat,💸💸,À faire,,,,,"[2.4157861, 48.81479]",2.4157861,48.81479
+Bobae,38 Rue Pascal,Paris,75013, France,restaurant,,Asiat,💸💸,À faire,,,,,"[2.348728700000001, 48.8368184]",2.348728700000001,48.8368184
+Bao Shelter,3 Rue Saint-Marc,Paris,75002, France,restaurant,,Asiat,Burger 🍔🍟,💸💸,Validé ✅,,,,"[2.3419019, 48.8702789]",2.3419019,48.8702789
+AUSMANE PARIS,26 Passage Verdeau,Paris,75009, France,shopping,,Parfumerie,💸💸,À faire,,,,,"[2.3424272, 48.8735411]",2.3424272,48.8735411
+AU BRAZIER MONTREUIL,128 Boulevard Chanzy,Montreuil,93100, France,restaurant,,Poulet 🐔,💸,Validé ✅,,,,,"[2.4289237, 48.8587465]",2.4289237,48.8587465
+Hawaiian poké,152 Rue Montmartre,Paris,75002, France,restaurant,,Hawaïen,💸💸,À faire,,,,,"[2.3431469, 48.8695876]",2.3431469,48.8695876
+Le Camion Qui Fume,Paris-2E-Arrondissement,Paris,75002,France,restaurant,,Burger 🍔🍟,💸💸,Validé ✅,,,,,"[2.342924399999999, 48.87065589999999]",2.342924399999999,48.87065589999999
+GOIKO,106 Rue de Richelieu,Paris,75002, France,restaurant,,Burger 🍔🍟,💸💸,Validé ✅,,,,,"[2.3399283, 48.8713673]",2.3399283,48.8713673
+Le Galuchat,40 Rue des Lois 31000 Toulouse France,Toulouse,31000,France,restaurant,,Crêperie,À faire,,,,,,"[1.4401737, 43.6070277]",1.4401737,43.6070277
+Patisserie Conte,37 Rue Croix Baragnon,Toulouse,31000, France,restaurant,,Boulangerie 🥖,Validé ✅,,,,,,"[1.4480115, 43.59972130000001]",1.4480115,43.59972130000001
+La Bonbonniere,41 Rue des Tourneurs 31000 Toulouse France,Toulouse,31000,France,supermarket,,Pâtisseries,💸💸,À faire,,,,,"[1.4450042, 43.6007908]",1.4450042,43.6007908
+Midi Minuit,3 Place du Peyrou,Toulouse,31000, France,restaurant,,Restaurant,🍴 inconnu,À faire,,,,,"[1.4396891, 43.6074862]",1.4396891,43.6074862
+Le Coyote Burgers,40 Rue des Lois,Toulouse,31000, France,restaurant,,Burger 🍔🍟,💸,À faire,,,,,"[1.4396786, 43.607511]",1.4396786,43.607511
+Karl Maison du Hot Dog,14 Rue Temponières,Toulouse,31000, France,restaurant,,Hot-Dog 🌭,💸💸,À faire,,,,,"[1.4433369, 43.6014334]",1.4433369,43.6014334
+Au Temple des Douceurs,8 Rue de Metz,Toulouse,31000, France,,,Pâtisseries,À faire,,,,,,"[1.441668, 43.599825]",1.441668,43.599825
+Le Paradis Gourmand,45 Rue des Tourneurs 31000 Toulouse France,Toulouse,31000,France,supermarket,,💸,Validé ✅,Divers,,,,,"[1.4449753, 43.600972]",1.4449753,43.600972
+Puok Burger Store,Via Francesco Cilea,Napoli,80127,Italy,restaurant,,Burger 🍔🍟,À faire,,,,,,"[14.2221863, 40.84316459999999]",14.2221863,40.84316459999999
+Feira Fresca,64 Boulevard de la République,Boulogne-Billancourt,92100,France,donuts,,Portugal 🇵🇹,Epicierie,💸,À faire,,,,"[2.24795, 48.83289]",2.24795,48.83289
+BigBang Restaurant,4 Rue Gay-Lussac,Paris,75005, France,,Coréen,Asiat,💸💸,À faire,TheFork 🍴,,,,"[2.3408461, 48.8463116]",2.3408461,48.8463116
+Nabou Pastel,18 Avenue Edouard Vaillant,Pantin,93500, France,restaurant,,Africain,💸💸,Validé ✅,Halal,RIP (Fermé definitivement),,,"[2.3971449, 48.8995055]",2.3971449,48.8995055
+Giovanni Boulangerie Contemporaine,49 Rue Chardon Lagache,Paris,75016, France,restaurant,,Boulangerie 🥖,Validé ✅,💸,,,,,"[2.2650484, 48.8431327]",2.2650484,48.8431327
+La Pâtisserie Cyril Lignac,24 Rue Paul Bert,Paris,75011, France,restaurant,L'équinoxe est délicieux ,Pâtisseries,💸💸,Validé ✅,,,,,"[2.3850199, 48.8526084]",2.3850199,48.8526084
+Alfred Burger - Noisy,2 Avenue Aristide Briand,Noisy-le-Grand,93160,France,restaurant,,Burger 🍔🍟,💸💸,À faire,,,,,"[2.5525041, 48.84855210000001]",2.5525041,48.84855210000001
+Onyxia,2 Avenue du Général de Gaulle 93110 Rosny-sous-Bois France,Rosny-sous-Bois,93110,France,restaurant,,Restaurant,🍴 inconnu,À faire,,,,,"[2.48251, 48.87436]",2.48251,48.87436
+Coriandre Paris,104 Rue de l'Ouest,Paris,75014, France,restaurant,Indien,💸💸,Asiat,Réservation,À faire,TheFork 🍴,,,"[2.3156906, 48.8342536]",2.3156906,48.8342536
+Le Merci,29 Rue Poissonnière 75002 Paris France,Paris,75002,France,restaurant,Cambodgien 🇰🇭,À faire,💸💸,Asiat,TheFork 🍴,,,,"[2.34779, 48.86986]",2.34779,48.86986
+Uma Nota,86 Rue Réaumur,Paris,75002, France,restaurant,,Hispanique,💸💸,À faire,TheFork 🍴,,,,"[2.3505013, 48.86690909999999]",2.3505013,48.86690909999999
+Raton Buveur,39 Rue Amelot,Paris,75011, France,bar,,Restaurant,💸💸,Hispanique,À faire,,,,"[2.3687822, 48.8570249]",2.3687822,48.8570249
+La Mezcaleria Paris,13 Bd du Temple,Paris,75003, France,bar,,💸💸,Hispanique,À faire,,,,,"[2.3659536, 48.8639492]",2.3659536,48.8639492
+Le Fil Rouge Café,3 Rue René Boulanger,Paris,75010, France,restaurant,,💸💸,Burger 🍔🍟,À faire,TheFork 🍴,,,,"[2.3585062, 48.86896]",2.3585062,48.86896
+Golosino,4 Square Vermenouze,Paris,75005, France,restaurant,,💸,Pizza 🍕,À faire,,,,,"[2.349129, 48.840844]",2.349129,48.840844
+L'Arobase Café,101 Rue Chevaleret,Paris,75013, France,cafe,,Café,🍴 inconnu,À faire,,,,,"[2.374795900000001, 48.8305229]",2.374795900000001,48.8305229
+Little morocco,119 Rue Ordener,Paris,75018, France,restaurant,,Maghreb/Moyen-Orient,💸💸,À faire,TheFork 🍴,,,,"[2.342201, 48.8926679]",2.342201,48.8926679
+Sushi Itchi,1 Rue du Moulinet,Paris,75013, France,restaurant,,💸💸,Asiat,À faire,,,,,"[2.3564982, 48.8272711]",2.3564982,48.8272711
+Puerto Cacao - Paris 10,103 Rue du Faubourg Saint-Denis,Paris,75010, France,shopping,,Chocolaterie 🍫,🍴 inconnu,À faire,,,,,"[2.355539400000001, 48.8749224]",2.355539400000001,48.8749224
+Chez Sam,118 Avenue de Clichy,Paris,75017, France,restaurant,,💸💸,Libanais 🇱🇧,À faire,,,,,"[2.3214851, 48.89000519999999]",2.3214851,48.89000519999999
+Le Comptoir Général,84 Quai de Jemmapes,Paris,75010, France,bar,,Restaurant,Réservation,💸💸,À faire,Zenchef,,,"[2.3652071, 48.8721207]",2.3652071,48.8721207
+Rice Trotters,16 Rue Saint-Augustin,Paris,75002, France,restaurant,,Restaurant,🍴 inconnu,À faire,,,,,"[2.336334, 48.868932]",2.336334,48.868932
+Marcelle (Marlon),159 Rue de Grenelle,Paris,75007, France,restaurant,,Restaurant,💸💸,À faire,,,,,"[2.306473399999999, 48.8576783]",2.306473399999999,48.8576783
+Villa Ferretti,102 Boulevard du Président Wilson,Bordeaux,33000, France,restaurant,,Restaurant,💸💸,À faire,TheFork 🍴,,,,"[-0.5991837000000001, 44.8412427]",-0.5991837000000001,44.8412427
+Brasserie L'Excelsior,50 Rue Henri Poincaré,Nancy,54000, France,restaurant,,Restaurant,💸💸,À faire,Zenchef,,,,"[6.175566, 48.690781]",6.175566,48.690781
+Mme Shawn Thai Bistrot,18 Rue Caffarelli,Paris,75003, France,restaurant,Thai,💸💸,Asiat,À faire,TheFork 🍴,,,,"[2.362408, 48.863933]",2.362408,48.863933
+Hakata Choten,53 Rue des Petits Champs,Paris,75001, France,restaurant,Japonais,💸💸,Asiat,À faire,,,,,"[2.3348348, 48.8671431]",2.3348348,48.8671431
+Cosi,54 Rue de Seine,Paris,75006, France,restaurant,,💸,Sandwich 🥪,À faire,,,,,"[2.3368877, 48.85412549999999]",2.3368877,48.85412549999999
+CHEESERS - RESTAURANT REPUBLIQUE ET FOOD TRUCK,3 rue Yves Toudic Paris 75010,Paris,75010,France,restaurant,,Sandwich 🥪,À faire,TheFork 🍴,,,,,"[2.3641372, 48.8693403]",2.3641372,48.8693403
+Bòbún,Passage des Panoramas,Paris,75002,France,fastfood,Vietnamien,Asiat,Burger 🍔🍟,À faire,,,,,"[2.34168, 48.87104]",2.34168,48.87104
+Burger Road,49 Rue Robert Dupont 92600 Asnières-sur-Seine France,Asnières-sur-Seine,92600,France,supermarket,,Burger 🍔🍟,À faire,,,,,,"[2.28397, 48.9215]",2.28397,48.9215
+Burger Road,49 Rue Robert Dupont 92600 Asnières-sur-Seine France,Asnières-sur-Seine,92600,France,supermarket,,Burger 🍔🍟,À faire,,,,,,"[2.2840147890807, 48.921508951022]",2.2840147890807,48.921508951022
+Une Glace à Paris,15 Rue Sainte-Croix de la Bretonnerie,Paris,75004, France,museum,,Glaces 🍨🍦,💸💸,À faire,,,,,"[2.3563274, 48.8581179]",2.3563274,48.8581179
+Le Pain Quotidien Varenne,25 rue de Varenne,Paris,75007,France,restaurant,,Boulangerie 🥖,À faire,,,,,,"[2.3242119, 48.8538065]",2.3242119,48.8538065
+Les Pères PoPulaires,46 Rue de Buzenval,Paris,75020, France,restaurant,,Bar,À faire,,,,,,"[2.4018248, 48.8511345]",2.4018248,48.8511345
+Jacques Genin Turenne,133 rue de Turenne 75003 Paris,Paris,75003,France,restaurant,"Coumarine, Praliesse, L, Tonka Teck 😋🤤",💸💸,Chocolaterie 🍫,Validé ✅,,,,,"[2.3645631, 48.8644515]",2.3645631,48.8644515
+Pascade,14 Rue Daunou Paris France,Paris,75002,France,restaurant,,Restaurant,💸💸,Réservation,À faire,,,,"[2.33131, 48.86972]",2.33131,48.86972
+Café foufou,10 Rue Oberkampf,Paris,75011, France,cafe,,Café,À faire,,,,,,"[2.3685455, 48.8630313]",2.3685455,48.8630313
+Librairie Présence Africaine,25 bis Rue des Écoles,Paris,75005, France,shopping,,Librairie,À faire,,,,,,"[2.3482961, 48.8485664]",2.3482961,48.8485664
+Tamery,19 Rue du Chalet 75010 Paris France,Paris,75010,France,library,,Librairie,À faire,,,,,,"[2.3730968, 48.87387289999999]",2.3730968,48.87387289999999
+Kott Café,19 Rue Ternaux,Paris,75011, France,cafe,,Café,À faire,,,,,,"[2.3734959, 48.86458469999999]",2.3734959,48.86458469999999
+Rodizio Brazil - Colombes,157 Bd Charles De Gaulle Colombes 92700,Colombes,92700,France,restaurant,,Viande,À faire,,,,,,"[2.2267301, 48.91582950000001]",2.2267301,48.91582950000001
+Afi Papilles,21 Rue de la Mairie,Champs-sur-Marne,77420, France,restaurant,,Pâtisseries,💸💸,À faire,,,,,"[2.6023736, 48.85346560000001]",2.6023736,48.85346560000001
+808 Mac and Cheese,21 Boulevard du Temple,Paris,75003, France,restaurant,,Pâtes 🍝,À faire,,,,,,"[2.3655246, 48.8645846]",2.3655246,48.8645846
+Constantia,94 Rue des Martyrs,Paris,75018,France,restaurant,,Pizza 🍕,💸💸,À faire,2️⃣,,,,"[2.33982, 48.88399]",2.33982,48.88399
+Maison Castro,25 Rue Eugène Jumin 75019 Paris France,Paris,75019,France,wine,,Sandwich 🥪,À faire,,,,,,"[2.39212, 48.88782]",2.39212,48.88782
+Afrik asian soul,23 Rue Eugène Jumin,Paris,75019, France,restaurant,,Africain,Validé ✅,💸💸,,,,,"[2.3921837, 48.88765170000001]",2.3921837,48.88765170000001
+Heat's,127 Avenue Jules Vallès 91200 Athis-Mons France,Athis-Mons,91200,France,fastfood,,Grec 🥙,À faire,,,,,,"[2.3814635276794434, 48.70499038696289]",2.3814635276794434,48.70499038696289
+ALDI,12 rue De L'Université Noisy Le Grand 93160,Noisy-le-Grand,93160,France,supermarket,,À bats la hess,💸,Validé ✅,,,,,"[2.560453, 48.83683]",2.560453,48.83683
+CRISPY SOUL Paris 15,101 Rue Brancion Paris 75015,Paris,75015,France,restaurant,"L’accueil, le service et le repas étaient au top 👌🏾. ",Soul Food,💸💸,Validé ✅,Halal,,,,"[2.30212, 48.83052]",2.30212,48.83052
+Boulangerie Loquer Jean-Pierre,25 Rue des Morillons 75015 Paris France,Paris,75015,France,supermarket,,Boulangerie 🥖,À faire,,,,,,"[2.2980393, 48.8338147]",2.2980393,48.8338147
+Boulangerie Max Poilâne,87 Rue Brancion 75015 Paris France,Paris,75015,France,supermarket,,Boulangerie 🥖,À faire,,,,,,"[2.3025102, 48.83117339999999]",2.3025102,48.83117339999999
+"BRAVO, la fabrique de pâtes",41 Rue des Jeuneurs,Paris,75002, France,restaurant,Très bonne pâtes pour pas très cher dans un bon environnement + la panna cotta qui est succulente 😋,Pâtes 🍝,💸,Validé ✅,,,,,"[2.3431617, 48.8697909]",2.3431617,48.8697909
+Big Joe soul food corner,258 Boulevard Voltaire,Paris,75011, France,restaurant,,Soul Food,Burger 🍔🍟,Validé ✅,💸💸,RIP (Fermé definitivement),,,"[2.395881799999999, 48.8568108]",2.395881799999999,48.8568108
+Galaxia 3,58 Avenue de la République,Fontenay-sous-Bois,France,France,generic,,Boulangerie 🥖,Validé ✅,💸,,,,,"[2.45702, 48.852638]",2.45702,48.852638
+Moulin de Chessy,19 Rue D'Ariane 77700 Chessy France,Chessy,77700,France,restaurant,,Pâtisseries,💸💸,Validé ✅,,,,,"[2.77144, 48.85794]",2.77144,48.85794
+La Maison du Zéro Déchet,1 passage Emma Calvé Paris 75012,Paris,75012,France,family,,Bio/Vegan,À faire,,,,,,"[2.385891914367676, 48.84823989868164]",2.385891914367676,48.84823989868164
+Dominique Saibron,77 Avenue du Général Leclerc 75014 Paris France,Paris,75014,France,restaurant,,Boulangerie 🥖,À faire,,,,,,"[2.3273413, 48.8279755]",2.3273413,48.8279755
+Boulangerie Briard et Fils,37 Rue de Paris 78600 Maisons-Laffitte France,Maisons-Laffitte,78600,France,supermarket,,Boulangerie 🥖,À faire,,,,,,"[2.15203, 48.94549]",2.15203,48.94549
+Boulangerie Raphaelle,1 Rue Feutrier Paris France,Paris,75018,France,supermarket,,Boulangerie 🥖,Validé ✅,,,,,,"[2.3463711, 48.885844]",2.3463711,48.885844
+Les Belles Envies,3 Rue Monge,Paris,75005, France,restaurant,,Pâtisseries,,,,,,,"[2.3495461, 48.84950910000001]",2.3495461,48.84950910000001
+Solques Bruno,243 Rue Saint-Jacques,Paris,75005, France,supermarket,,Boulangerie 🥖,💸💸,,,,,,"[2.3415327, 48.842855]",2.3415327,48.842855
+Restaurant Pizza Kebab Ariane,11 Rue de Boston,Strasbourg,67000, France,restaurant,,Pizza 🍕,Grec 🥙,À faire,,,,,"[7.770493699999999, 48.57722379999999]",7.770493699999999,48.57722379999999
+Tartelettes,102 Rue Montmartre,Paris,75002, France,restaurant,,Pâtisseries,À faire,,,,,,"[2.3441784, 48.86727339999999]",2.3441784,48.86727339999999
+Ö Classic,3 Rue du Soleil,Schiltigheim,67300,France,generic,,Grec 🥙,À faire,,,,,,"[7.75572, 48.605869]",7.75572,48.605869
+Henri Bouillet,15 Place de la Croix-Rousse,Lyon,69004, France,shopping,,Chocolaterie 🍫,Pâtisseries,À faire,,,,,"[4.832942999999999, 45.775849]",4.832942999999999,45.775849
+Maison Auguste,215 Rue de Vaugirard 75015 Paris France,Paris,75015,France,fastfood,,Restaurant,À faire,,,,,,"[2.30909, 48.84176]",2.30909,48.84176
+Anacoco,98 Boulevard d'Alsace-Lorraine 94170 Le Perreux-sur-Marne France,Le Perreux-sur-Marne,94170,France,generic,,💸💸,Soul Food,Burger 🍔🍟,Validé ✅,,,,"[2.5037169456481934, 48.850738525390625]",2.5037169456481934,48.850738525390625
+SHINZO PARIS,39 Rue Étienne Marcel,Paris,75001, France,shopping_women,,Bazar,À faire,,,,,,"[2.3476652, 48.86403989999999]",2.3476652,48.86403989999999
+L'effiloché,5 Rue du Centenaire,Montreuil,93100,France,generic,,Sandwich 🥪,💸💸,Validé ✅,Florian On Air,,,,"[2.42698, 48.85799]",2.42698,48.85799
+Patisserie de Saison,65 Avenue d'Ivry,Paris,75013, France,supermarket,Les Perles Cocos 😋☺️,💸,Asiat,Validé ✅,,,,,"[2.364508, 48.823758]",2.364508,48.823758
+Shinya Pain Montmartre,41 Rue des Trois Frères,Paris,75018, France,restaurant,,Boulangerie 🥖,À faire,,,,,,"[2.3396317, 48.8851843]",2.3396317,48.8851843
+BINICI,18 Rue Chapon,Paris,75003, France,supermarket,,Pâtisseries,À faire,,,,,,"[2.3562905, 48.8635965]",2.3562905,48.8635965
+À la Mère de Famille,35,Paris,75009,France,shopping,,💸💸,Chocolaterie 🍫,Validé ✅,,,,,"[2.342328999999999, 48.87395799999999]",2.342328999999999,48.87395799999999
+La Grange à Pain,12 Rue Mabillon,Paris,75006, France,supermarket,,💸,Boulangerie 🥖,Validé ✅,,,,,"[2.3350956, 48.8520143]",2.3350956,48.8520143
+French Soul Food,16 Rue Pierre Brossolette 93130 Noisy-le-Sec France,Noisy-le-Sec,93130,France,restaurant,,💸,Soul Food,Validé ✅,,,,,"[2.4566878, 48.8903747]",2.4566878,48.8903747
+C’est Mon Donuts,49 Rue du Chemin Vert,Paris,75011, France,generic,Bon mais très sucré ,💸💸,Validé ✅,,,,,,"[2.3752784729003906, 48.859413146972656]",2.3752784729003906,48.859413146972656
+Wings and Chill,70 Rue Alexandre Dumas,Paris,75011,France,generic,,💸,Burger 🍔🍟,Poulet 🐔,Validé ✅,,,,"[2.39544, 48.85413]",2.39544,48.85413
+pita pit,259 Rue du Faubourg Saint-Antoine,Paris,75011, France,restaurant,,💸,Validé ✅,Bio/Vegan,TheFork 🍴,,,,"[2.3869552, 48.84990879999999]",2.3869552,48.84990879999999
+Yummy Thai,42 Rue de Ménilmontant,Paris,75020, France,restaurant,Thaïlandais 🇹🇭,💸,Asiat,Validé ✅,RIP (Fermé definitivement),,,,"[2.3869192600250244, 48.86787033081055]",2.3869192600250244,48.86787033081055
+Princesse Café,32 Rue Bichat Paris 75010,Paris,75010,France,restaurant,,💸💸,Brunch,Validé ✅,TheFork 🍴,,,,"[2.3683456, 48.871201]",2.3683456,48.871201
+Babka Zana,65 Rue Condorcet,Paris,75009, France,restaurant,,💸,Pâtisseries,Validé ✅,,,,,"[2.3413031, 48.88024799999999]",2.3413031,48.88024799999999
+Les Freres Chapelier,32 Rue de Bayard 31000 Toulouse France,Toulouse,31000,France,supermarket,,💸,Boulangerie 🥖,Validé ✅,Bio 👨‍🌾,,,,"[1.448707, 43.6093464]",1.448707,43.6093464
+EL CHIVITO IBERICO,63 Rue Pargaminières,Toulouse,31000, France,restaurant,,💸💸,Hispanique,Validé ✅,2️⃣,,,,"[1.437998, 43.602249]",1.437998,43.602249
+Prima Lova,1 Place de la Bourse,Toulouse,31000, France,restaurant,,💸💸,Pizza 🍕,Validé ✅,,,,,"[1.4421772, 43.6014334]",1.4421772,43.6014334
+Orto Italian Streetfood,6 Rue Peyras 31000 Toulouse France,Toulouse,31000,France,fastfood,,💸💸,Sandwich 🥪,Validé ✅,,,,,"[1.4439903, 43.6014007]",1.4439903,43.6014007
+Les Toulous'Hein,71 Rue de la Pomme 31000 Toulouse France,Toulouse,31000,France,fastfood,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[1.4444794, 43.60373]",1.4444794,43.60373
+Pizzeria D'Alexis,12 Rue de la République 31300 Toulouse France,Toulouse,31300,France,restaurant,,💸💸,Pizza 🍕,Validé ✅,,,,,"[1.4359456, 43.5986937]",1.4359456,43.5986937
+Bouche B,36 Rue des Filatiers 31000 Toulouse France,Toulouse,31000,France,fastfood,,💸,Burger 🍔🍟,Validé ✅,,,,,"[1.444243, 43.5989839]",1.444243,43.5989839
+Antica Salumeria,1 Rue des Arts 31000 Toulouse France,Toulouse,31000,France,restaurant,,💸💸,Epicierie Fine,Italien 🇮🇹,Validé ✅,,,,"[1.447089672088623, 43.59983825683594]",1.447089672088623,43.59983825683594
+Les Biscuits de Mr Laurent (PAU),1 Rue Bordenave d'Abere,Pau,64000, France,shopping,,💸,Cookie 🍪,Validé ✅,,,,,"[-0.373926, 43.295263]",-0.373926,43.295263
+Quoi the,13 Rue du Mirail 33000 Bordeaux France,Bordeaux,33000,France,generic,,💸,Validé ✅,Bubble Tea,,,,,"[-0.5712729096412659, 44.83441162109375]",-0.5712729096412659,44.83441162109375
+Boulangerie Louis Lamour,Hôtel de Ville - Quinconces,Bordeaux,33000, France,restaurant,,💸,Boulangerie 🥖,Validé ✅,,,,,"[-0.5728487999999999, 44.8371437]",-0.5728487999999999,44.8371437
+La Maison Darricau,7BIS Rue de la Vieille Tour 33000 Bordeaux France,Bordeaux,33000,France,supermarket,,💸💸,Chocolaterie 🍫,Validé ✅,,,,,"[-0.5795074, 44.84140660000001]",-0.5795074,44.84140660000001
+Møna,20 Rue de la Vieille Tour 18 et,Bordeaux,33000, France,cafe,,💸💸,Salon de thé 🍵,Validé ✅,2️⃣,,,,"[-0.5796182, 44.8410649]",-0.5796182,44.8410649
+Dunes Blanches chez Pascal,7 Rue de la Vieille Tour,Bordeaux,33000, France,restaurant,,💸,Pâtisseries,Validé ✅,,,,,"[-0.5796022999999999, 44.8414305]",-0.5796022999999999,44.8414305
+Sambrosa,18 Rue Saint-Siméon 33000 Bordeaux France,Bordeaux,33000,France,generic,Quel délice les quesadillas 😋🤤 !,💸💸,Hispanique,Validé ✅,,,,,"[-0.57293, 44.83896]",-0.57293,44.83896
+Sweet Pepper - épicerie fine,10 Rue des Ayres,Bordeaux,33000, France,shopping,Sauces piquantes ,💸💸,Epicierie Fine,Validé ✅,,,,,"[-0.5724317999999999, 44.8368929]",-0.5724317999999999,44.8368929
+Au Petit Paradis,31 Avenue Étienne Billières,Toulouse,31300,France,generic,,💸,Boulangerie 🥖,Validé ✅,,,,,"[1.42754, 43.597099]",1.42754,43.597099
+POGGETTI - Pizzeria e Cucina Italiana,32 Rue Gaspard Philippe,Bordeaux,33800, France,restaurant,,💸💸,Pizza 🍕,Validé ✅,,,,,"[-0.5667603999999999, 44.83260180000001]",-0.5667603999999999,44.83260180000001
+Patisserie S.,8 Cours d'Alsace et Lorraine,Bordeaux,33000,France,generic,,💸,Pâtisseries,Validé ✅,,,,,"[-0.5718, 44.83771]",-0.5718,44.83771
+Le Refectoire,31 Rue du Château d'Eau Paris France,Paris,75010,France,fastfood,,Traiteur,💸💸,À faire,,,,,"[2.3585082, 48.87094949999999]",2.3585082,48.87094949999999
+Kokomo Cantine,9 Place Fernand Lafargue,Bordeaux,33000, France,restaurant,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[-0.5718339, 44.8368786]",-0.5718339,44.8368786
+Pic/Nic,28 Rue de L'Échiquier Paris France,Paris,75010,France,restaurant,Coréen ,💸,Asiat,Validé ✅,,,,,"[2.3506945, 48.87163330000001]",2.3506945,48.87163330000001
+Urfa Durum,56 Rue du Faubourg Saint-Denis Paris France,Paris,75010,France,fastfood,,💸,Viande,Validé ✅,,,,,"[2.354262799999999, 48.87237719999999]",2.354262799999999,48.87237719999999
+Julhès Paris,54 Rue du Faubourg Saint-Denis 75010 Paris,Paris,75010,France,shopping,,💸💸,Boulangerie 🥖,Epicierie Fine,Validé ✅,,,,"[2.354268900000001, 48.87232909999999]",2.354268900000001,48.87232909999999
+Dumpling Queen,22 Rue de l'Échiquier,Paris,75010,France,generic,,💸,Asiat,Validé ✅,,,,,"[2.35116, 48.871429]",2.35116,48.871429
+La Droguerie,47 Rue du Faubourg Saint-Denis,Paris,75010,France,generic,,💸,Crêperie,Validé ✅,,,,,"[2.35356, 48.871658]",2.35356,48.871658
+MaMi,44 Rue du Faubourg du Temple Paris 75011,Paris,75011,France,restaurant,,💸,Sandwich 🥪,Validé ✅,,,,,"[2.3691971, 48.8692692]",2.3691971,48.8692692
+Kozy Lafayette,46 Rue la Fayette,Paris,75009, France,restaurant,,💸💸,Brunch,Café,Validé ✅,,,,"[2.3401139, 48.8747806]",2.3401139,48.8747806
+Aux Péchés Normands,9 Rue du Faubourg du Temple,Paris,75010, France,restaurant,Les niflettes 😋,💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[2.365456, 48.868287]",2.365456,48.868287
+Crème Brussels,Rue de Rollebeek 30,Bruxelles,1000, Belgique,restaurant,,💸💸,Brunch,À faire,,,,,"[4.3533108, 50.84194400000001]",4.3533108,50.84194400000001
+Berlin Fabrik,Place de la Chapelle 17,Bruxelles,1000, Belgique,restaurant,,🍴 inconnu,Burger 🍔🍟,À faire,,,,,"[4.351443199999999, 50.8409485]",4.351443199999999,50.8409485
+coco donuts,Rue Sainte-Anne 36,Bruxelles,1000, Belgique,donuts,,💸,À faire,Pâtisseries,,,,,"[4.3554692, 50.8412227]",4.3554692,50.8412227
+L'atelier en Ville,Rue Haute 64,Bruxelles,1000, Belgium,cafe,,🍴 inconnu,À faire,,,,,,"[4.351507600000001, 50.8404842]",4.351507600000001,50.8404842
+Tich,Rue de Namur 25,Bruxelles,1000, Belgique,restaurant,,🍴 inconnu,À faire,,,,,,"[4.3595594, 50.8405619]",4.3595594,50.8405619
+Nénu,Rue Dejoncker 21,Saint-Gilles,1060, Belgique,restaurant,,🍴 inconnu,À faire,,,,,,"[4.354701599999999, 50.8341643]",4.354701599999999,50.8341643
+Fika Coffee,Rue de la Paix 17 1050 Ixelles Belgium,Ixelles,1050,Belgique,restaurant,,🍴 inconnu,À faire,,,,,,"[4.364939, 50.8354186]",4.364939,50.8354186
+Chyl,Belle-VueStraat Brussels Belgium,Bruxelles,1000,Belgique,restaurant,,🍴 inconnu,À faire,,,,,,"[4.3714071, 50.8196795]",4.3714071,50.8196795
+Ici,1050,Ixelles,1050,Belgique,restaurant,,🍴 inconnu,À faire,,,,,,"[4.352465899999999, 50.8179071]",4.352465899999999,50.8179071
+Les Super Filles du Tram,Rue Lesbroussart 22,Bruxelles,1050, Belgique,restaurant,,🍴 inconnu,À faire,,,,,,"[4.3702402, 50.8276291]",4.3702402,50.8276291
+Restaurant Inzia,Rue de la Paix 37,Ixelles,1050, Belgique,restaurant,,🍴 inconnu,À faire,,,,,,"[4.3657237, 50.8360073]",4.3657237,50.8360073
+Boulangerie Charli,Rue Sainte-Catherine 34,Bruxelles,1000, Belgique,restaurant,,💸,Boulangerie 🥖,Validé ✅,,,,,"[4.3475812, 50.85005229999999]",4.3475812,50.85005229999999
+Le Dillens,Place Julien Dillens,Saint-Gilles,1060, Belgique,cafe,,🍴 inconnu,À faire,,,,,,"[4.348912299999999, 50.83180460000001]",4.348912299999999,50.83180460000001
+8tea5 Brussels,Rue des Fripiers 17 Brussels Belgium,Bruxelles,1000,Belgique,cafe,,🍴 inconnu,À faire,,,,,,"[4.352287699999999, 50.8486182]",4.352287699999999,50.8486182
+TERO,Rue St.Bernard 1,Saint-Gilles,1060, Belgique,restaurant,,🍴 inconnu,À faire,,,,,,"[4.355814000000001, 50.8301525]",4.355814000000001,50.8301525
+OLD BOY,Rue de Tenbosch 110,Ixelles,1050, Belgique,restaurant,,🍴 inconnu,À faire,,,,,,"[4.361100999999999, 50.820766]",4.361100999999999,50.820766
+Wolf Sharing Food Market,Rue du Fossé aux Loups 50,Bruxelles,1000, Belgique,restaurant,Beef Pan Toukoul 🇪🇹 ✅,💸💸,Validé ✅,Africain,,,,,"[4.356280599999999, 50.8499341]",4.356280599999999,50.8499341
+Frit Flagey,Place Eugène Flagey,Ixelles,1050, Belgique,generic,,💸,🍟,Validé ✅,,,,,"[4.372397299999999, 50.8283502]",4.372397299999999,50.8283502
+Renard Bakery,Place Fernand Cocq 3,Ixelles,1050, Belgique,restaurant,,💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[4.366066, 50.83350799999999]",4.366066,50.83350799999999
+Grain Bakery,Rue de l'Aqueduc 84,Ixelles,1050, Belgique,restaurant,,💸,Boulangerie 🥖,Validé ✅,,,,,"[4.360184400000001, 50.8240556]",4.360184400000001,50.8240556
+Manhattn's Burgers,Rue Henri Maus 39,Bruxelles,1000, Belgique,restaurant,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[4.350294799999999, 50.8475201]",4.350294799999999,50.8475201
+PoZ Café,Rue Defacqz 94,Saint-Gilles,1060, Belgique,cafe,,💸💸,Brunch,Café,Validé ✅,,,,"[4.357848, 50.8269735]",4.357848,50.8269735
+Chalet Robinson,Sentier de l'Embarcadère 1,Bruxelles,1000, Belgique,restaurant,Le meilleur brunch que j’ai fait jusqu’à présent. En plus de la bonne nourriture l’environnement autour de l’établissement est magnifique.,💸💸,Brunch,Validé ✅,,,,,"[4.380765999999999, 50.804436]",4.380765999999999,50.804436
+Le Kalu Ethnic Food,83 rue de l'église Saint-Gilles,Brussel,1060, Belgique,restaurant,,💸💸,Africain,Poulet 🐔,Validé ✅,,,,"[4.343507199999999, 50.83009980000001]",4.343507199999999,50.83009980000001
+Tough cookie,Rue Berthelot 108,Forest,1190,Belgique,donuts,Dans le top des meilleurs cookies que j’ai mangé. (Uniquement sur commande internet pour le moment),💸,Validé ✅,Cookie 🍪,RIP (Fermé definitivement),,,,"[4.3305, 50.825142]",4.3305,50.825142
+Kafei,Chau. de Vleurgat 147,Bruxelles,1000, Belgique,restaurant,,💸💸,Café,À faire,,,,,"[4.3671202, 50.82315930000001]",4.3671202,50.82315930000001
+Rambo,Washingtonstraat 1050 Elsene Belgium,Ixelles,1050,Belgique,generic,,💸💸,Burger 🍔🍟,À faire,,,,,"[4.363153457641602, 50.82567596435547]",4.363153457641602,50.82567596435547
+Kicoucou,Rue de la Creche 17,Ixelles,1050,Belgique,restaurant,,💸💸,Burger 🍔🍟,À faire,,,,,"[4.3678414, 50.8340522]",4.3678414,50.8340522
+Hashtag Chicken & Waffles,Plétinckxstraat 55,Bruxelles,1000,Belgique,generic,,💸💸,Soul Food,Validé ✅,,,,,"[4.34392, 50.848122]",4.34392,50.848122
+Bobbi Bao,Rue Henri Maus 25 1000 Brussels Belgium,Bruxelles,1000,Belgique,restaurant,,💸,Asiat,À faire,,,,,"[4.35, 50.84762]",4.35,50.84762
+Fritland,Henri Mausstraat 9 Brussels Belgium,Bruxelles,1000,Belgique,restaurant,,💸,🍟,À faire,,,,,"[4.350560100000001, 50.8474242]",4.350560100000001,50.8474242
+Neuhaus Chocolates,Grand Place 27 Brussel 1000,Bruxelles,1000,Belgique,generic,,💸💸,Chocolaterie 🍫,Validé ✅,,,,,"[4.3530083, 50.8467793]",4.3530083,50.8467793
+Elisabeth,Rue au Beurre 43,Brussel,1000, Belgique,shopping,,💸💸,Chocolaterie 🍫,Validé ✅,,,,,"[4.35183, 50.8473]",4.35183,50.8473
+Restaurant MEERT,27 Rue Esquermoise,Lille,59000, France,restaurant,,💸💸,Pâtisseries,Chocolaterie 🍫,Validé ✅,,,,"[3.0618764, 50.6377379]",3.0618764,50.6377379
+Boulangerie-Pâtisserie Brier,118 Rue Esquermoise,Lille,59000, France,restaurant,,💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[3.0590926, 50.6388466]",3.0590926,50.6388466
+Chouchou,47 Rue d'Angleterre,Lille,59800, France,generic,,💸💸,Pâtisseries,Validé ✅,,,,,"[3.0596964359283447, 50.640987396240234]",3.0596964359283447,50.640987396240234
+Maison Maé,17 Rue du Château d'Eau,Paris,75010,France,bakery,,💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[2.36032, 48.869991]",2.36032,48.869991
+Dear Jane,58 Rue Sainte-Anne,Paris,75002, France,restaurant,,💸💸,Cookie 🍪,Validé ✅,,,,,"[2.3364478, 48.86810930000001]",2.3364478,48.86810930000001
+"Juliane, pâtisseries naturelles",169 Rue Pierre Mauroy,Lille,59800,France,generic,,💸,Salon de thé 🍵,Validé ✅,,,,,"[3.06863, 50.63282]",3.06863,50.63282
+Crackbuns,Auguststraße 63 Mitte,Berlin,10117,Allemagne,fastfood,,💸,Burger 🍔🍟,Validé ✅,,,,,"[13.397068977355957, 52.52718734741211]",13.397068977355957,52.52718734741211
+Bäckerei und Konditorei in der Sophienstraße,Sophienstraße 30,Berlin,10178, Allemagne,restaurant,,💸,Pâtisseries,Validé ✅,,,,,"[13.39956, 52.52668]",13.39956,52.52668
+Die Stulle,Carmerstraße 10,Berlin,10623, Allemagne,restaurant,,💸,Café,Brunch,Validé ✅,,,,"[13.3237326, 52.50672]",13.3237326,52.50672
+goldies,Oranienstraße 6,Berlin,10997, Allemagne,restaurant,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[13.4250751, 52.4998002]",13.4250751,52.4998002
+Burgermeister,Skalitzer Str. 136,Berlin,10999,Allemagne,restaurant,,💸,Burger 🍔🍟,Validé ✅,,,,,"[13.4185965, 52.4994525]",13.4185965,52.4994525
+Zeit für Brot,Alte Schönhauser Str. 4,Berlin,10119, Germania,restaurant,,💸💸,Boulangerie 🥖,Validé ✅,,,,,"[13.4086034, 52.52801210000001]",13.4086034,52.52801210000001
+Piri’s Chicken Burger,Boddinstraße 61 Neukölln,Berlin,12053,Allemagne,fastfood,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[13.433138847351074, 52.48097229003906]",13.433138847351074,52.48097229003906
+What do you fancy love Mitte,Linienstraße 41,Berlin,10119, Allemagne,cafe,,💸💸,Café,Brunch,Validé ✅,,,,"[13.4096609, 52.5283141]",13.4096609,52.5283141
+Mustafa's Gemuese Kebab,MehringDamm 32 Kreuzberg,Berlin,10961,Allemagne,fastfood,,💸,Grec 🥙,Validé ✅,,,,,"[13.3880363, 52.4938222]",13.3880363,52.4938222
+Round & Edgy,Rochstraße 3,Berlin,10178,Allemagne,donuts,,💸💸,Cookie 🍪,Validé ✅,,,,,"[13.40738, 52.524071]",13.40738,52.524071
+Mubis Cookies,Reichenberger Straße 176,Berlin,10999,Allemagne,donuts,,💸💸,Cookie 🍪,Validé ✅,,,,,"[13.41705, 52.49976]",13.41705,52.49976
+LINDNER,Mall of berlin,Berlin,10117,Allemagne,shopping,,💸💸,Boulangerie 🥖,Validé ✅,,,,,"[13.380784, 52.5105567]",13.380784,52.5105567
+KaDeWe,TAUENTZIENSTRASSE,Berlin,10789,Allemagne,shopping,,💸💸💸,Epicierie Fine,Validé ✅,Grand Magasin 🛍,,,,"[13.340993, 52.5016021]",13.340993,52.5016021
+Blue Rooster,44 Boulevard Voltaire 75011 Paris France,Paris,75011,France,civic,,💸💸,Soul Food,Validé ✅,,,,,"[2.3703930377960205, 48.863399505615234]",2.3703930377960205,48.863399505615234
+Alban Guilmet,6 Rue Saint-Jean 14000 Caen France,Caen,14000,France,restaurant,,💸,Chocolaterie 🍫,Validé ✅,,,,,"[-0.3608285000000001, 49.1831507]",-0.3608285000000001,49.1831507
+Chicago Factory,16 Rue Henri Desgrange 75012 Paris France,Paris,75012,France,generic,,💸,Burger 🍔🍟,Pâtes 🍝,Halal,Validé ✅,,,"[2.3819, 48.83957]",2.3819,48.83957
+Ernest & Valentin,225 Rue de Charenton,Paris,75012,France,restaurant,,💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[2.3904551, 48.8380696]",2.3904551,48.8380696
+The french bastards,61-55 Rue Oberkampf,Paris,75011, Francia,restaurant,,💸💸,Boulangerie 🥖,Validé ✅,,,,,"[2.3728487, 48.8648028]",2.3728487,48.8648028
+Cake Life Coffee,Rue Corbineau 75012 Paris France,Paris,75012,France,restaurant,,💸,Café,Validé ✅,Salon de thé 🍵,,,,"[2.381577491760254, 48.839447021484375]",2.381577491760254,48.839447021484375
+WOW TEA,16 Rue Saint-Augustin,Paris,75002, France,shopping,,💸,Bubble Tea,Asiat,Validé ✅,,,,"[2.3361959, 48.8690001]",2.3361959,48.8690001
+B.O.U.L.O.M,181 Rue Ordener,Paris,75018, France,restaurant,,💸💸,Boulangerie 🥖,Restaurant,Validé ✅,2️⃣,,,"[2.3356451, 48.89358759999999]",2.3356451,48.89358759999999
+HOMADE,20 Rue Jacques Louvel-Tessier,Paris,75010, France,restaurant,,💸💸,Brunch,Restaurant,Validé ✅,,,,"[2.3698818, 48.87109499999999]",2.3698818,48.87109499999999
+Sain Boulangerie,13 Rue Alibert,Paris,75010, France,restaurant,,💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[2.3661899, 48.8719279]",2.3661899,48.8719279
+Carton Paris,6 Bd de Denain,Paris,75010, France,restaurant,,💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[2.3546022, 48.87912]",2.3546022,48.87912
+The Hamburger Foundation,Rue Philippe-Plantamour 37,Genève,1201, Suisse,restaurant,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[6.150819999999999, 46.21144459999999]",6.150819999999999,46.21144459999999
+C und M,Almisgässli 1,Grindelwald,3818, Suisse,restaurant,,💸💸,Café,Bar,Restaurant,Validé ✅,,,"[8.040807699999998, 46.6234878]",8.040807699999998,46.6234878
+Favarger,Quai des Bergues 19 1201 Geneva Switzerland,Genève,1201,Suisse,shopping,,💸💸,Chocolaterie 🍫,Validé ✅,,,,,"[6.1443400382995605, 46.20621109008789]",6.1443400382995605,46.20621109008789
+Anna Maria Dimiou,Rue du Mont-Blanc 20 1201 Geneva Switzerland,Genève,1201,Suisse,generic,,💸💸,Café,Validé ✅,,,,,"[6.140214443206787, 46.20732879638672]",6.140214443206787,46.20732879638672
+La Boulangerie Des Grottes,Rue des Grottes 5,Genève,1201, Switzerland,restaurant,,💸,Boulangerie 🥖,Validé ✅,,,,,"[6.140181, 46.2098168]",6.140181,46.2098168
+Restaurant Auberge de Savièse,Rue des Pâquis 20,Genève,1201, Suisse,restaurant,,💸💸,Restaurant,Validé ✅,,,,,"[6.1491492, 46.2109437]",6.1491492,46.2109437
+Black Tap Craft Burger & Beer - OPENING SOON,Cours de Rive 6,Genève,1204, Suisse,restaurant,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[6.1528116, 46.20140929999999]",6.1528116,46.20140929999999
+Au Saint Honoré S.A.,Rue de Carouge 91,Genève,1205, Suisse,cafe,,💸,Boulangerie 🥖,Validé ✅,,,,,"[6.143260100000001, 46.18880859999999]",6.143260100000001,46.18880859999999
+Loeb department store Bern,Spitalgasse 47-51,Bern,3001, Suisse,shopping,,💸💸💸,Grand Magasin 🛍,,,,,,"[7.441327799999999, 46.9477349]",7.441327799999999,46.9477349
+MAJE GLOBUS GENEVE,Rue du Rhône 48,Genève,1024, Suisse,shopping,,💸💸💸,Grand Magasin 🛍,,,,,,"[6.1474078, 46.2041462]",6.1474078,46.2041462
+Bongénie,Rue du Marché 34,Genève,1204, Suisse,shopping,,💸💸💸,Grand Magasin 🛍,,,,,,"[6.147117, 46.202979]",6.147117,46.202979
+Manor,Rue de Cornavin 6,Genève,1211, Suisse,shopping,,💸💸💸,Grand Magasin 🛍,,,,,,"[6.1425967, 46.20727889999999]",6.1425967,46.20727889999999
+Hansel et Gretel,107 Rue Colbert,Tours,37000, France,cafe,Très bon pain perdu,💸,Café,Salon de thé 🍵,Validé ✅,2️⃣,,,"[0.6904085999999999, 47.3959984]",0.6904085999999999,47.3959984
+L'Etape a Pates,81 Rue Colbert,Tours,37000, France,restaurant,,💸,Pâtes 🍝,Validé ✅,,,,,"[0.6902481999999999, 47.3958349]",0.6902481999999999,47.3958349
+Sonny’s pizza,5 Rue de la Fontaine au Roi,Paris,75011, France,restaurant,,💸💸,Pizza 🍕,Validé ✅,,,,,"[2.3685796, 48.86874349999999]",2.3685796,48.86874349999999
+Baby Love Burger,63 Rue Saint-Maur,Paris,75011, France,restaurant,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[2.3793777, 48.86272530000001]",2.3793777,48.86272530000001
+AVEC,1 Rue du Breil,Rennes,35000, France,restaurant,Un des meilleurs burgers que j’ai mangé. Rapport qualité prix au top,💸,Restaurant,Burger 🍔🍟,Validé ✅,,,,"[-1.6348124, 48.0965159]",-1.6348124,48.0965159
+B’Kery,16 Mail François Mitterrand,Rennes,35000,France,generic,,💸💸,Boulangerie 🥖,Validé ✅,,,,,"[-1.68761, 48.11023]",-1.68761,48.11023
+Le Fournil Vasselot,13 Rue Vasselot,Rennes,35000,France,restaurant,,💸,Boulangerie 🥖,Validé ✅,,,,,"[-1.6783406, 48.1087314]",-1.6783406,48.1087314
+Sarrasin,17 Rue Jules Simon,Rennes,35000,France,generic,,💸💸,Crêperie,Validé ✅,,,,,"[-1.67906, 48.10808]",-1.67906,48.10808
+Pâtisserie Hoffmann Porte Neuve,18 Avenue de la Porte-Neuve,Luxembourg,2227,Luxembourg,restaurant,,💸💸,Boulangerie 🥖,Validé ✅,,,,,"[6.128229699999999, 49.61286499999999]",6.128229699999999,49.61286499999999
+Kaale Kaffi,1247,Luxembourg,1247,Luxembourg,cafe,,💸,Café,Validé ✅,,,,,"[6.133144399999999, 49.61150319999999]",6.133144399999999,49.61150319999999
+Break - Villeurbanne,10 Cours de la République,Villeurbanne,69100, France,generic,,💸,Tacos 🇫🇷,Validé ✅,,,,,"[4.873809814453125, 45.770355224609375]",4.873809814453125,45.770355224609375
+Cherryne and Pef's Bake Shop,26 Rue Neuve,Lyon,69002,France,generic,,💸,Cookie 🍪,Sandwich 🥪,Validé ✅,,,,"[4.8363, 45.76524]",4.8363,45.76524
+Blend Hamburger Charonne,15 Rue de Charonne Paris 75011,Paris,75011,France,restaurant,,💸💸,Burger 🍔🍟,Validé ✅,,,,,"[2.3744885, 48.85297060000001]",2.3744885,48.85297060000001
+Les Goûters de Karen,2 Rue Maurice Bokanowski,Asnières-sur-Seine,92600, France,generic,,💸,Cookie 🍪,Validé ✅,,,,,"[2.2861052, 48.9071148]",2.2861052,48.9071148
+La Marmite Joyeuse,33 Boulevard National,Marseille,13001, France,restaurant,,💸,Restaurant,Validé ✅,,,,,"[5.386411499999999, 43.3025716]",5.386411499999999,43.3025716
+Cookiss,7 Rue Four du Chapitre,Marseille,13002, France,donuts,,💸,Cookie 🍪,Validé ✅,,,,,"[5.365513324737549, 43.298744201660156]",5.365513324737549,43.298744201660156
+Glacier Vanille Noire,13 Rue Caisserie,Marseille,13002, Frankreich,restaurant,👌,💸,Glaces 🍨🍦,Validé ✅,,,,,"[5.3688224, 43.2970554]",5.3688224,43.2970554
+Petrin Couchette,7 Cr Saint-Louis,Marseille,13001, France,bakery,,💸,Boulangerie 🥖,Validé ✅,,,,,"[5.378516999999999, 43.295805]",5.378516999999999,43.295805
+Frères Brioche - Opéra,6 Rue Saint-Saëns,Marseille,13001, France,restaurant,,💸💸,Sandwich 🥪,Validé ✅,,,,,"[5.377010345458984, 43.29474639892578]",5.377010345458984,43.29474639892578
+Pastels World,29 Rue d'Aubagne,Marseille,13001, France,restaurant,,💸,Africain,Validé ✅,,,,,"[5.379877200000001, 43.29520780000001]",5.379877200000001,43.29520780000001
+"Gigi, bouillon italien",13 Cr Julien,Marseille,13006, France,restaurant,,💸💸,Italien 🇮🇹,Pâtes 🍝,Validé ✅,2️⃣,RIP (Fermé definitivement),,"[5.382938861846924, 43.295169830322266]",5.382938861846924,43.295169830322266
+La Pépite,145 Rue Sainte,Marseille,13008, France,restaurant,,💸,Pâtisseries,Validé ✅,Bio 👨‍🌾,,,,"[5.367160900000001, 43.2907007]",5.367160900000001,43.2907007
+KO-ISHI,25 Rue Sainte,Marseille,13001, France,restaurant,,💸💸,Asiat,Validé ✅,2️⃣,,,,"[5.375677699999999, 43.29241739999999]",5.375677699999999,43.29241739999999
+Cornbread Marseille,32 Rue des trois Mages,Marseille,13006, France,restaurant,Bon restaurant avec bonne ambiance ,💸💸,Soul Food,Poulet 🐔,Validé ✅,,,,"[5.3846816, 43.29454579999999]",5.3846816,43.29454579999999
+UN MEXICAIN A MARSEILLE,5 Place Paul Cézanne,Marseille,13006, France,restaurant,,💸,Hispanique,Validé ✅,,,,,"[5.383248, 43.292666]",5.383248,43.292666
+PAIN PAN ! Boulangerie de quartier,29 Rue 3 Frères Barthélémy,Marseille,13006, France,restaurant,,💸,Boulangerie 🥖,Bio/Vegan,Validé ✅,,,,"[5.38525, 43.29304]",5.38525,43.29304
+Sarl Healthy Food Syliflo,2 Place de la La Préfecture 13006 Marseille France,Marseille,13006,France,generic,,💸💸,Restaurant,Validé ✅,,,,,"[5.379796981811523, 43.29077911376953]",5.379796981811523,43.29077911376953
+Boulangerie-Café Pain Salvator,32 Boulevard Louis Salvator,Marseille,13006, France,restaurant,,💸,Boulangerie 🥖,Validé ✅,,,,,"[5.3827698, 43.2910124]",5.3827698,43.2910124
+restaurant mame diarra,l'académie,Marseille,13001,France,restaurant,Jus de Bouye,💸,Africain,Restaurant,Validé ✅,,,,"[5.381032800000001, 43.2959317]",5.381032800000001,43.2959317
+Epicerie l'Ideal,11 Rue d'Aubagne,Marseille,13001, Francia,shopping,,Epicierie Fine,Traiteur,Validé ✅,💸💸,,,,"[5.379091, 43.2958049]",5.379091,43.2958049
+Aux Deux Fréres,3 Rue des Commerçants,Saint-Tropez,83990, France,restaurant,,💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[6.639784299999999, 43.2724416]",6.639784299999999,43.2724416
+Sarl JU,96 Rue Général Allard 83990 Saint-Tropez France,Saint-Tropez,83990,France,generic,,💸💸,Sandwich 🥪,Validé ✅,,,,,"[6.63658, 43.27006]",6.63658,43.27006
+La Tarte Tropézienne A Micka,9 Boulevard Louis Blanc,Saint-Tropez,83990, France,restaurant,,💸💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[6.6384832, 43.2693631]",6.6384832,43.2693631
+DIOR Café,13 Rue François Sibilli,Saint-Tropez,83990,France,cafe,,À faire,💸💸💸,Restaurant,Café,2️⃣,,,"[6.640393500000001, 43.2708209]",6.640393500000001,43.2708209
+Maison Soulier Artisan Glacier,Bd Georges Clemenceau,Arles,13200, France,shopping,,💸,Boulangerie 🥖,Pâtisseries,Validé ✅,,,,"[4.62754, 43.67608]",4.62754,43.67608
+Le Bar à Pain,18 Cours Joseph Thierry,Marseille,13001, France,restaurant,,💸,Boulangerie 🥖,,,,,,"[5.386396100000001, 43.3002027]",5.386396100000001,43.3002027
+La Biscuiterie du Palais,12 Boulevard Philippon,Marseille,13004, France,generic,,💸💸,Biscuiterie,,,,,,"[5.393745422363281, 43.30332946777344]",5.393745422363281,43.30332946777344
+Farinette,36 Rue Caisserie,Marseille,13002, France,restaurant,,💸,Boulangerie 🥖,,,,,,"[5.3674675, 43.29699189999999]",5.3674675,43.29699189999999
+C’est Bon Restaurant méditérranéen végétarien,11 Avenue du Maréchal Foch,Marseille,13004, France,restaurant,,💸💸,Libanais 🇱🇧,Vege/Vegan 🌱,,,,,"[5.3978511, 43.30206]",5.3978511,43.30206
+la BOULANGERIE,51 Rue des Faures,Bordeaux,33000, France,bakery,,💸,Boulangerie 🥖,,,,,,"[-0.5664866, 44.8349937]",-0.5664866,44.8349937
+JAQEN TUKI,117 bis Cr Victor Hugo,Bordeaux,33000, France,restaurant,,💸💸,Burger 🍔🍟,Poulet 🐔,RIP (Fermé definitivement),,,,"[-0.57196, 44.83504]",-0.57196,44.83504
+Cassonade,53 Rue Saint-James,Bordeaux,33000, France,restaurant,,💸💸,Divers,,,,,,"[-0.57143, 44.83556]",-0.57143,44.83556
+BATCH,61 Rue des Ayres,Bordeaux,33000, France,restaurant,,💸💸,Cookie 🍪,,,,,,"[-0.5746055, 44.8369191]",-0.5746055,44.8369191
+Pepite cookie - Gambetta,Bordeaux 33000,Bordeaux,33000,France,restaurant,,💸💸,Cookie 🍪,,,,,,"[-0.5794452428817749, 44.84059524536133]",-0.5794452428817749,44.84059524536133
+Glacerie Dumas,9 Rue Ravez 33000 Bordeaux France,Bordeaux,33000,France,generic,,💸,Glaces 🍨🍦,,,,,,"[-0.5728, 44.83703]",-0.5728,44.83703
+65 Degres,1 Cours Pasteur 33000 Bordeaux France,Bordeaux,33000,France,generic,,💸💸,Sandwich 🥪,RIP (Fermé definitivement),,,,,"[-0.5757545828819275, 44.83621597290039]",-0.5757545828819275,44.83621597290039
+T65,35 Avenue de la Corse,Marseille,13007, France,generic,,💸,Boulangerie 🥖,,,,,,"[5.36336, 43.28923]",5.36336,43.28923
+Boulangerie Patisserie Pan & Gatô,6 Rue du Pré d'Avril,Annecy-le-Vieux,74940, France,restaurant,,💸,Boulangerie 🥖,,,,,,"[6.146976100000001, 45.9069682]",6.146976100000001,45.9069682
+Aristide,5 Rue de la Gare 74000 Annecy France,Annecy,74000,France,generic,,💸,Boulangerie 🥖,,,,,,"[6.121953010559082, 45.8989372253418]",6.121953010559082,45.8989372253418
+Bältis Artisan Glacier,27 Rue Saint-Antoine,Paris,75004, France,restaurant,,💸,Glaces 🍨🍦,Libanais 🇱🇧,,,,,"[2.3652524948120117, 48.85363006591797]",2.3652524948120117,48.85363006591797
+Atelier Létanduère,15 Rue de Létanduère,Angers,49000, France,restaurant,,💸,Boulangerie 🥖,,,,,,"[-0.5546173000000001, 47.4616736]",-0.5546173000000001,47.4616736
+Boulangerie Des Carmes,21 Boulevard Henri Arnauld,Angers,49100, France,restaurant,,💸,Boulangerie 🥖,,,,,,"[-0.561994, 47.473106]",-0.561994,47.473106
+Nina Cafe,6 Rue Jacques d'Aragon 34000 Montpellier France,Montpellier,34000,France,generic,,💸💸,Brunch,,,,,,"[3.8771733, 43.6084143]",3.8771733,43.6084143
+La Meulerie - Fromagerie,9 Grand Rue,Marseille,13002, France,shopping,,💸,Fromage,,,,,,"[5.372531799999999, 43.2976714]",5.372531799999999,43.2976714
+Le Parpaing qui flotte,3 Rue Goudard,Marseille,13005, France,restaurant,Bistrot d’élite ,💸💸,Restaurant,,,,,,"[5.3941159, 43.2949884]",5.3941159,43.2949884
+Les Mains Libres,117 Boulevard Chave,Marseille,13005, France,bakery,,💸,Boulangerie 🥖,,,,,,"[5.3939122, 43.2956005]",5.3939122,43.2956005
+Alive,Rue des Barques 2,Genève,1207, Suisse,restaurant,,💸💸,Brunch,Healthy,Vege/Vegan 🌱,,,,"[6.1554062, 46.2038421]",6.1554062,46.2038421
+L'atelier 116,116 Grand'Rue,Strasbourg,67000, France,restaurant,,💸,Boulangerie 🥖,,,,,,"[7.7442273, 48.5814169]",7.7442273,48.5814169
+Tzatzi,1 Rue de la Demi Lune,Strasbourg,67000, France,restaurant,,💸💸,Libanais 🇱🇧,,,,,,"[7.7456654, 48.5818889]",7.7456654,48.5818889
+M I M,113 Rue Marceau,Montreuil,93100, France,generic,,Restaurant,💸💸,TheFork 🍴,,,,,"[2.426614, 48.849833]",2.426614,48.849833
+MIJOTE,72B Rue François Arago,Montreuil,93100, France,restaurant,,💸💸,Asiat,RIP (Fermé definitivement),,,,,"[2.427783900000001, 48.8527372]",2.427783900000001,48.8527372
+UNION BOULANGERIE,2 Rue Bleue,Paris,75009, France,restaurant,,💸,Boulangerie 🥖,,,,,,"[2.3475155, 48.8759316]",2.3475155,48.8759316
+Pousses,14 Rue de Lagny 93100 Montreuil France,Montreuil,93100,France,generic,,💸,Healthy,Vege/Vegan 🌱,,,,,"[2.4283766746520996, 48.848873138427734]",2.4283766746520996,48.848873138427734
+UBUD,1 bis Avenue de Paris,Vincennes,94300, France,restaurant,,💸💸,Asiat,,,,,,"[2.4341228, 48.8448904]",2.4341228,48.8448904
+Noémie Giorno My Little Kitchen,5 Rue Lejemptel,Vincennes,94300, France,bakery,,💸💸,Pâtisseries,,,,,,"[2.437617540359497, 48.84625244140625]",2.437617540359497,48.84625244140625
+KALY,47 bis Rue Jacques Hillairet,Paris,75012, France,restaurant,,💸,Restaurant,,,,,,"[2.3894768, 48.84372479999999]",2.3894768,48.84372479999999
+BASIS,79 Rue de Belleville,Paris,75019, France,restaurant,,💸💸,Grec 🥙,,,,,,"[2.3838605, 48.8737447]",2.3838605,48.8737447
+Lorette boulangerie gourmande,2 Rue de la Butte aux Cailles,Paris,75013, France,restaurant,Bon sandwich au saumon,💸💸,Boulangerie 🥖,,,,,,"[2.3525592, 48.8281603]",2.3525592,48.8281603
+ARSENE Montreuil,54 Rue Robespierre,Montreuil,93100, France,restaurant,,💸💸,Restaurant,,,,,,"[2.423595, 48.8529848]",2.423595,48.8529848
+Physalis,95 Rue de Fontenay,Vincennes,94300, France,shopping,,Epicierie Fine,💸💸,,,,,,"[2.4360438, 48.8481791]",2.4360438,48.8481791
+Thai 116,116 Rue de Lagny 93100 Montreuil France,Montreuil,93100,France,generic,,💸,Asiat,RIP (Fermé definitivement),,,,,"[2.4193410873413086, 48.84940719604492]",2.4193410873413086,48.84940719604492
+Dürüm & Brunch,6 Av. de la République,Vincennes,94300, France,restaurant,,Turque 🇹🇷,Viande,2️⃣,,,,,"[2.4293257, 48.8465666]",2.4293257,48.8465666
+Metà e Metà Pizzeria,51 Rue du Capitaine Dreyfus,Montreuil,93100, France,restaurant,,💸💸,Pizza 🍕,TheFork 🍴,,,,,"[2.4410344, 48.8601274]",2.4410344,48.8601274
+Les nouilles dansantes,12 Rue Vignon,Paris,75009, France,restaurant,Rapport qualité prix excellent ,💸💸,Asiat,TheFork 🍴,,,,,"[2.3262545, 48.8707931]",2.3262545,48.8707931
+Gros Bao,72 Quai de Jemmapes,Paris,75010,France,restaurant,,💸💸,Asiat,,,,,,"[2.3657338, 48.8714683]",2.3657338,48.8714683
+Alfi Nouvelle Tradition - Paris 16,23 Rue des Sablons,Paris,75116, France,restaurant,,💸💸,Viande,,,,,,"[2.283005714416504, 48.86503601074219]",2.283005714416504,48.86503601074219
+PUSH Smash Burgers - Saint Maur,117 Rue Saint-Maur,Paris,75011, France,restaurant,,💸💸,Burger 🍔🍟,,,,,,"[2.376584768295288, 48.866275787353516]",2.376584768295288,48.866275787353516
+Tigermilk Paris Sentier,77 Rue d'Aboukir,Paris,75002, France,restaurant,,💸💸,Hispanique,2️⃣,,,,,"[2.347307900000001, 48.86791909999999]",2.347307900000001,48.86791909999999
+Homer Lobster - Vincennes,13 Rue du Midi,Vincennes,94300, France,restaurant,,💸💸,Poisson 🐟,,,,,,"[2.4371399879455566, 48.847084045410156]",2.4371399879455566,48.847084045410156
+Mayli's Resto & Co,36 Rue Blondel,Paris,75002, France,generic,Restaurant d’empanadas avec spécialités chiliennes 🇨🇱,💸💸,Hispanique,TheFork 🍴,,,,,"[2.3525297, 48.8689704]",2.3525297,48.8689704
+Playa,8 Rue Defrance,Vincennes,94300, France,generic,,💸💸,Restaurant,,,,,,"[2.44681, 48.84791]",2.44681,48.84791
+AUX TIROIRS A COOKIES,6 Rue Saint-Jacques,Lille,59800,France,restaurant,,💸💸,Cookie 🍪,,,,,,"[3.065201997756958, 50.640281677246094]",3.065201997756958,50.640281677246094
+Nani,105 Rue de Paris,Montreuil,93100, France,generic,Restaurant mauricien 🇲🇺,💸💸,Africain,,,,,,"[2.42807, 48.85654]",2.42807,48.85654
+Sénégalette,38 Rue Poissonnière,Paris,75002, Francia,restaurant,🇸🇳,💸💸,Africain,Crêperie,TheFork 🍴,,,,"[2.3479817, 48.870025]",2.3479817,48.870025
+Boulangerie Bopain,127 Rue de Reuilly,Paris,75012, France,generic,,💸,Boulangerie 🥖,,,,,,"[2.39521, 48.84034]",2.39521,48.84034
+Piou,74 Rue Grignan,Marseille,13001, France,shopping,,💸💸,Epicierie Fine,,,,,,"[5.374626699999999, 43.2916841]",5.374626699999999,43.2916841
+Maythai,32 Avenue de la République,Paris,75011, France,restaurant,,💸💸,Asiat,TheFork 🍴,2️⃣,,,,"[2.3710563, 48.8657335]",2.3710563,48.8657335
+Maison Marquet,64 Rue Championnet,Paris,75018, France,generic,,💸,Boulangerie 🥖,,,,,,"[2.34671, 48.89585]",2.34671,48.89585
+So.bio,1 Chemin des Silos,Toulouse,31100, France,supermarket,,💸💸,Bio 👨‍🌾,,,,,,"[1.422189, 43.556017]",1.422189,43.556017
+Sixta,28 Rue de Bayard,Toulouse,31000, France,restaurant,,💸💸,Brunch,Healthy,Vege/Vegan 🌱,,,,"[1.4483148, 43.6090581]",1.4483148,43.6090581
+La Brewlangerie,306 Avenue de Muret,Toulouse,31300, France,bakery,,💸,Boulangerie 🥖,Cookie 🍪,,,,,"[1.4340944290161133, 43.5916633605957]",1.4340944290161133,43.5916633605957
+Au Péché Mignon La Maison De Ravel,37 Rue du Languedoc,Toulouse,31000, France,bakery,,💸💸,Boulangerie 🥖,,,,,,"[1.4454371, 43.59861269999999]",1.4454371,43.59861269999999
+Café Bong,11 Rue de la Bourse,Toulouse,31000, France,cafe,,💸💸,Asiat,Healthy,,,,,"[1.4424058, 43.6004965]",1.4424058,43.6004965
+Troika Royale,23 Rue des Filatiers,Toulouse,31000, France,restaurant,🇷🇺🇬🇪,💸💸,Asiat,TheFork 🍴,,,,,"[1.4439959, 43.59871529999999]",1.4439959,43.59871529999999
+Cookie Love,84 Rue d'Aboukir,Paris,75002, France,generic,,💸,Cookie 🍪,,,,,,"[2.3477136, 48.86787469999999]",2.3477136,48.86787469999999
+Panade,35 Rue Violet,Paris,75015, France,restaurant,,💸💸,Boulangerie 🥖,Pâtisseries,,,,,"[2.2935392, 48.8478946]",2.2935392,48.8478946
+Assaporare,7 Rue St-Nicolas,Paris,75012, France,restaurant,,💸💸,Italien 🇮🇹,Restaurant,2️⃣,TheFork 🍴,,,"[2.374334, 48.851077]",2.374334,48.851077
+Boris Lumé Patisserie Boulangerie,48 Rue Caulaincourt,Paris,75018, France,bakery,,💸,Boulangerie 🥖,,,,,,"[2.334805, 48.8889874]",2.334805,48.8889874
+Gang,8 Rue de la Parcheminerie,Rennes,35000, France,cafe,,💸💸,Café,,,,,,"[-1.6806765794754028, 48.10911178588867]",-1.6806765794754028,48.10911178588867
+Yvan Chevalier,9 Rue de Nemours,Rennes,35000, France,shopping,,💸💸,Pâtisseries,,,,,,"[-1.6800481081008911, 48.10843276977539]",-1.6800481081008911,48.10843276977539
+Le Général Tao,7 Rue du Bourg l'Évesque,Rennes,35000, France,restaurant,,💸💸,Burger 🍔🍟,,,,,,"[-1.6887491, 48.1128385]",-1.6887491,48.1128385
+Zico,14 Rue Danton,Issy-les-Moulineaux,92130, France,restaurant,Indien 🇮🇳,💸💸,Asiat,,,,,,"[2.2693577, 48.824962]",2.2693577,48.824962
+Le Jardin Sucré,156 Rue de Courcelles,Paris,75017, France,restaurant,,💸💸,Pâtisseries,,,,,,"[2.2996108, 48.8829005]",2.2996108,48.8829005
+l'atelier saisonnier Paris 13,89 Rue Albert,Paris,75013, France,restaurant,,💸💸,Brunch,,,,,,"[2.370388, 48.8272475]",2.370388,48.8272475
+Manobaké,152 Rue de Charonne,Paris,75011, France,bakery,,💸,Boulangerie 🥖,,,,,,"[2.38989520072937, 48.855464935302734]",2.38989520072937,48.855464935302734
+L'éphémère - Pâtisserie,15 Place Saint-Maclou,Mantes-la-Jolie,78200, France,generic,,💸,Boulangerie 🥖,,,,,,"[1.71844, 48.99088]",1.71844,48.99088
+L'Osmanthe,8 Rue Tourneux,Paris,75012, France,bakery,🇯🇵,💸💸,Pâtisseries,Asiat,,,,,"[2.398641899999999, 48.83759209999999]",2.398641899999999,48.83759209999999
+Jade Genin,33 Avenue de l'Opéra,Paris,75002, France,shopping,,💸💸💸,Chocolaterie 🍫,,,,,,"[2.3333081, 48.8677823]",2.3333081,48.8677823
+Ara Chocolat,54 Rue de Dunkerque,Paris,75009, France,shopping,,💸💸,Chocolaterie 🍫,,,,,,"[2.3479412, 48.8818549]",2.3479412,48.8818549
+Chez Céline,5ta Avenida con calle 34,Playa del Carmen,77710,Mexico,bakery,,💸💸,Salon de thé 🍵,,,,,,"[-87.0672013, 20.6336871]",-87.0672013,20.6336871
+La Casa de Las Mixtas,3er Callejón Cofiño,Antigua Guatemala,,Guatemala,restaurant,🇬🇹,💸,Hispanique,,,,,,"[-90.7373875, 14.5580748]",-90.7373875,14.5580748
+Hotel Atitlan Gardens,07010 Panajachel,Panajachel,,Guatemala,forest,,💸💸💸,,,,,,,"[-91.1655646, 14.7480483]",-91.1655646,14.7480483
+Migoya's Restaurant,Solola,Panajachel,,Guatemala,restaurant,,💸💸,Restaurant,,,,,,"[-91.15, 14.7333]",-91.15,14.7333
+Circus Bar,Avenida Los Árboles,Panajachel,,Guatemala,restaurant,,💸💸,Pizza 🍕,,,,,,"[-91.155202, 14.744661]",-91.155202,14.744661
+Famosos Shucos,Calle de La Navidad,Panajachel,,Guatemala,restaurant,,💸,,,,,,,"[-91.15357208251953, 14.745232582092285]",-91.15357208251953,14.745232582092285
+La Trama Burger Club,19 Calle,Ciudad de Guatemala,,Guatemala,restaurant,,💸,Burger 🍔🍟,,,,,,"[-90.50981903076172, 14.590925216674805]",-90.50981903076172,14.590925216674805
+Katane Pizza,Calle 68,Martiz,Plaza, Panamá,restaurant,,💸💸,Pizza 🍕,,,,,,"[-79.51127624511719, 8.994038581848145]",-79.51127624511719,8.994038581848145
+Viajeros Fast Food,Calle 12 3-67,Bogotá,,Colombia,generic,,💸,Burger 🍔🍟,Hispanique,,,,,"[-74.0719217, 4.5971772]",-74.0719217,4.5971772
+Santa Fe Café & Restaurante,Calle 26B 4-30,Bogotá,,Colombia,restaurant,,💸,Restaurant,Hispanique,,,,,"[-74.066625, 4.612019]",-74.066625,4.612019
+Cafe de la Peña Pasteleria Francesa,Carrera 3 9-27,Bogotá,,Colombia,supermarket,,Café,Pâtisseries,💸,,,,,"[-74.07261799999999, 4.594667]",-74.07261799999999,4.594667
+La Fabbrica,Calle 93A 13-25,Bogotá,,Colombia,restaurant,,💸💸,Italien 🇮🇹,Pizza 🍕,,,,,"[-74.04961600000001, 4.6768074]",-74.04961600000001,4.6768074
+Sant Just,Calle 16A 2-73,Bogotá,,Colombia,restaurant,,💸💸,Viande,Restaurant,,,,,"[-74.0686226, 4.600679899999999]",-74.0686226,4.600679899999999
+Fairuz Café Restaurante / Shawarma Show,Avenida 6 de Diciembre,Quito,170524,Ecuador,restaurant,,💸,Libanais 🇱🇧,,,,,,"[-78.49185, -0.205209]",-78.49185,-0.205209
+Chifa Fuzhao (Chifa Fu Zhao),Avenida 6 de Diciembre,Quito,170524,Ecuador,restaurant,🇨🇳,💸,Asiat,,,,,,"[-78.4902, -0.20433]",-78.4902,-0.20433
+Mile Time,Baquerizo Moreno E7-70,Quito,170524,Ecuador,restaurant,🇹🇼,💸,Asiat,Vege/Vegan 🌱,,,,,"[-78.4890358, -0.2023699]",-78.4890358,-0.2023699
+Barrio Meshica,15 Rue de la Villette,Paris,75019, France,restaurant,,💸💸,Hispanique,TheFork 🍴,,,,,"[2.387355099999999, 48.875464]",2.387355099999999,48.875464
